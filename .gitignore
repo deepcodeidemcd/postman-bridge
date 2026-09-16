@@ -1,9 +1,12 @@
 node_modules
 .sessions/
 .postman-profile/
+.postman-profile-v2/
 .pm-reg-debug/
 .pm-reg-profile/
 .pm-warm-profile/
+.goal/
+.opencode/
 *.log
 .env
 postman_accounts.jsonl
@@ -12,8 +15,4 @@ test_*.py
 debug_*.py
 proxy_reg.py
 batch_summary.json
-cap_*.png
-.goal/
-.goal/history
 *.png
-!src/**/*.png

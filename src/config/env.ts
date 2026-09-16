@@ -27,10 +27,7 @@ function boolEnv(name: string, fallback: boolean): boolean {
   throw new Error(`${name} must be true/false`);
 }
 
-const workspaceUrl = env('POSTMAN_WORKSPACE_URL');
-if (!workspaceUrl) {
-  throw new Error('POSTMAN_WORKSPACE_URL is required. Copy .env.example to .env and set it.');
-}
+const workspaceUrl = env('POSTMAN_WORKSPACE_URL') ?? 'https://www.postman.com/';
 
 function apiKeysEnv(primaryKey: string): Record<string, string> {
   const raw = env('BRIDGE_API_KEYS');

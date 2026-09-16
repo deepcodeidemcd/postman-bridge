@@ -1,5 +1,4 @@
 node_modules
-.sessions/
 .postman-profile/
 .postman-profile-v2/
 .pm-reg-debug/
@@ -9,7 +8,6 @@ node_modules
 .opencode/
 *.log
 .env
-postman_accounts.jsonl
 reg_*.log
 test_*.py
 debug_*.py

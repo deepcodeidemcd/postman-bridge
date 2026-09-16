@@ -634,14 +634,17 @@ export async function nativeCodeChat(
       console.log(`[native-agent] user=${_userId} ok len=${out.length}`);
       return sanitizeBranding(stripFluff(out));
     } catch (e) {
+      // Quota/session errors: throw immediately so runVisionExclusive switches slot
       if (e instanceof QuotaExhaustedError || e instanceof SessionExpiredError) throw e;
       const msg = e instanceof Error ? e.message : String(e);
       lastErr = e;
-      if (/Failed to fetch|Target page, context or browser has been closed|network|LLM_STREAM_ERROR|empty response/i.test(msg)) {
+      // Transient errors: retry on same slot with backoff
+      if (/Failed to fetch|Target page, context or browser has been closed|network|LLM_STREAM_ERROR/i.test(msg)) {
         console.log(`[native-agent] transient error (attempt ${attempt + 1}/3): ${msg.slice(0, 90)}`);
         await page.waitForTimeout(2500 + attempt * 2000);
         continue;
       }
+      // Other errors: throw immediately to let pool try next slot
       throw e;
     }
   }

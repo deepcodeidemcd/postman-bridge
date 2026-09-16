@@ -1,1 +1,6 @@
-claude mcp add --transport http render https://mcp.render.com/mcp --header "Authorization: Bearer <rnd_7zY5jj7H0p9LKqcWckd1XqD9Q0an>"
+! First copy your one-time code: C373-9B4D
+Press Enter to open https://github.com/login/device in your browser...
+✓ Authentication complete.
+- gh config set -h github.com git_protocol https
+✓ Configured git protocol
+✓ Logged in as deepcodeidemcd

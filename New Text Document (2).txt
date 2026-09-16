@@ -1,0 +1,1 @@
+claude mcp add --transport http render https://mcp.render.com/mcp --header "Authorization: Bearer <rnd_7zY5jj7H0p9LKqcWckd1XqD9Q0an>"

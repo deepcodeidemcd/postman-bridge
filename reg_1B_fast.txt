@@ -1,0 +1,4 @@
+BATCH: 125 accounts, 2 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 1000M tokens
+[W0] job 0 start
+[W1] job 1 start

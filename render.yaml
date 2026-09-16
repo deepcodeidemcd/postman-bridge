@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: postman-bridge
+    runtime: image
+    plan: starter  # $10/month, 2GB RAM
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: BRIDGE_HOST
+        value: 0.0.0.0
+      - key: BRIDGE_PORT
+        value: 10000
+      - key: POSTMAN_WORKSPACE_URL
+        sync: false  # set in Render dashboard
+      - key: BRIDGE_API_KEY
+        generateValue: true
+      - key: POSTMAN_HEADLESS
+        value: "true"
+      - key: NODE_ENV
+        value: production
+    healthCheckPath: /v1/models
+    autoDeploy: true

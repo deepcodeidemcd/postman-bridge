@@ -1,0 +1,7 @@
+BATCH: 125 accounts, 1 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 1000M tokens
+[W0] job 0 start
+[W0] job 0 FAILED in 173s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 1 start
+[W0] job 1 FAILED in 180s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 2 start

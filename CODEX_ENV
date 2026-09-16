@@ -1,0 +1,14 @@
+# Codex config — kết nối thẳng vào AI Gateway
+# CHUYÊN DỤNG CHO CÓDEX / OPENCODE / CLINE / CURSOR
+
+# URL gateway (thay <IP_HOST> bằng IP máy host gateway)
+BASE_URL=http://<IP_HOST>:8787/v1
+API_KEY=sk-postman-local
+
+# Với Codex CLI:
+export OPENAI_BASE_URL=http://<IP_HOST>:8787/v1
+export OPENAI_API_KEY=sk-postman-local
+
+# Với OpenCode / Claude Code / Cursor:
+# Base URL: http://<IP_HOST>:8787/v1
+# API Key:  sk-postman-local

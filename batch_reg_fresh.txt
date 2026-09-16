@@ -1,0 +1,37 @@
+BATCH: 10 accounts, 5 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 80M tokens
+[W0] job 0 start
+[W1] job 1 start
+[W2] job 2 start
+[W3] job 3 start
+[W4] job 4 start
+[W2] job 2 FAILED in 8s: FAILED: no temp email available  =============================================
+[W2] job 7 start
+[W2] job 7 FAILED in 8s: FAILED: no temp email available  =============================================
+[W4] job 4 DONE in 89s: pmfpyrfk890t@emalupe.com [on_onboarding]
+[W4] job 9 start
+[W0] job 0 DONE in 91s: pm13q75gi22r@emalupe.com [completed]
+[W0] job 5 start
+[W1] job 1 DONE in 97s: pmc5bcym3p6k@emalupe.com [on_onboarding]
+[W1] job 6 start
+[W1] job 6 FAILED in 6s: FAILED: no temp email available  =============================================
+[W3] job 3 FAILED in 130s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 8 start
+[W4] job 9 DONE in 91s: pmqbsca14k72@emalupe.com [on_onboarding]
+[W0] job 5 FAILED in 134s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 8 DONE in 99s: pmlaaq2j52jr@emalupe.com [on_onboarding]
+
+============================================================
+FINISHED in 229s (3.8 min)
+Success: 5/10 | Failed: 5
+Throughput: 1.3 acc/min | tokens this run: 40M
+Est. time for 125 acc at this rate: 96 min
+
+Failures:
+  job 2 [W2]: FAILED: no temp email available  =============================================
+  job 7 [W2]: FAILED: no temp email available  =============================================
+  job 6 [W1]: FAILED: no temp email available  =============================================
+  job 3 [W3]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 5 [W0]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+
+Summary saved: batch_summary.json

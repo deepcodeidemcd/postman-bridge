@@ -1,0 +1,27 @@
+BATCH: 5 accounts, 3 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 40M tokens
+[W0] job 0 start
+[W1] job 1 start
+[W2] job 2 start
+[W1] job 1 FAILED in 7s: FAILED: no temp email available  =============================================
+[W1] job 4 start
+[W1] job 4 FAILED in 8s: FAILED: no temp email available  =============================================
+[W2] job 2 FAILED in 295s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 0 FAILED in 297s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 3 start
+[W0] job 3 FAILED in 230s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+
+============================================================
+FINISHED in 527s (8.8 min)
+Success: 0/5 | Failed: 5
+Throughput: 0.0 acc/min | tokens this run: 0M
+N/A
+
+Failures:
+  job 1 [W1]: FAILED: no temp email available  =============================================
+  job 4 [W1]: FAILED: no temp email available  =============================================
+  job 2 [W2]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 0 [W0]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 3 [W0]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+
+Summary saved: batch_summary.json

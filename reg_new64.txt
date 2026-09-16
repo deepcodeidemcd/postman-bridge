@@ -1,0 +1,88 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pmfzzs6kwngv@uberip.com
+   username: pmgqgyrmxnty
+   password: Pm6hCjxbdjKdZn!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (6s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=3da8c772-48e5-4700-92bd-9d9845
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pmfzz
+   username: ok:pmgqg
+   password: ok:Pm6hC
+   verify: {"email":"pmfzzs6kwngv@uberip.com","username":"pmgqgyrmxnty","password":"ok:15"}
+   waiting for signup Turnstile...
+   Turnstile done: token_ready (2s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (4s): https://identity.getpostman.com/verify-account?handover=71282ed493b6fd39ecb4664f
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=71282ed493b6fd39ecb4664f70e5299364968acc349b
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pmfzzs6kwngv@uberip.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日本
+
+--- Step 2: Email Verification ---
+   code input ready (1s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pmfzzs6kwngv@uberip.com...
+   email subject: 674484 is your account verification code
+   found code: 674484
+   code fill: single:verification-code
+   clicked verify button
+   verified (2s): chrome-error://chromewebdata/
+   screenshot: D:\hoat_hinh\Grokpool\check\1_04_after_verify.png
+
+--- Step 3: Complete onboarding ---
+   current URL: chrome-error://chromewebdata/
+   body: Press space to play
+
+Try:
+
+Checking the network cables, modem, and router
+Reconnecting to Wi-Fi
+Running Windows Network Diagnostics
+ERR_INTERNET_DISCO
+   waiting for wizard... (2s)
+   waiting for wizard... (12s)
+   waiting for wizard... (22s)
+   waiting for wizard... (32s)
+   waiting for wizard... (42s)
+   waiting for wizard... (52s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_07_onboarding_wizard.png
+   filled text inputs
+   no dropdown left (round 1)
+   clicked team size
+   clicked workspace button
+   onboarding submitted
+
+--- Step 4: Upgrade to Enterprise ---
+   navigating to postman.com...
+   waiting for dashboard to fully load...
+   waiting for load... (2s, spinner=False)
+   waiting for load... (12s, spinner=False)
+   waiting for load... (22s, spinner=False)
+   waiting for load... (32s, spinner=False)
+   waiting for load... (42s, spinner=False)
+   waiting for load... (52s, spinner=False)
+   looking for Upgrade button...
+   waiting for Upgrade button... (3s)
+   waiting for Upgrade button... (18s)
+   waiting for Upgrade button... (33s)
+   FAILED: Upgrade button never clickable
+   screenshot: D:\hoat_hinh\Grokpool\check\1_08_no_upgrade_btn.png
+
+==================================================
+RESULTS: 0/1 accounts registered
+==================================================

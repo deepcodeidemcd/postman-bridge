@@ -1,0 +1,52 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pmqahg5bk1oa@uberip.com
+   username: pm1c4komufvy
+   password: PmgsmCst3cRLx5!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (6s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=58408a49-51f2-4ff0-8861-4794b3
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pmqah
+   username: ok:pm1c4
+   password: ok:Pmgsm
+   verify: {"email":"pmqahg5bk1oa@uberip.com","username":"pm1c4komufvy","password":"ok:15"}
+   waiting for signup Turnstile...
+   Turnstile done: token_ready (2s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (4s): https://identity.getpostman.com/verify-account?handover=cf00654427fad26c5aeb7366
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=cf00654427fad26c5aeb7366e4e27fab4c2fb80ba86d
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pmqahg5bk1oa@uberip.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日本
+
+--- Step 2: Email Verification ---
+   code input ready (1s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pmqahg5bk1oa@uberip.com...
+   email subject: 718569 is your account verification code
+   found code: 718569
+   code fill: single:verification-code
+   clicked verify button
+   verified (2s): https://pm1c4komufvy-5983944.postman.co/onboarding/user?authFlowId=58408a49-51f2
+   screenshot: D:\hoat_hinh\Grokpool\check\1_04_after_verify.png
+
+--- Step 3: Complete onboarding ---
+   current URL: https://pm1c4komufvy-5983944.postman.co/onboarding/user?authFlowId=58408a49-51f2
+   body: 
+   waiting for wizard... (2s)
+   wizard rendered (4s): {"inputs":0,"radios":0,"selects":0,"btnTexts":"Try Native Git"}
+   screenshot: D:\hoat_hinh\Grokpool\check\1_07_onboarding_wizard.png

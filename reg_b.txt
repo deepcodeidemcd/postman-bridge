@@ -1,0 +1,39 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pmgybnigaiaa@uberip.com
+   username: pm52j743by0u
+   password: PmqLqOEkzVRZQr!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (8s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=9ef8556f-3763-4e4f-b81b-bf62a4
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pmgyb
+   username: ok:pm52j
+   password: ok:PmqLq
+   verify: {"email":"pmgybnigaiaa@uberip.com","username":"pm52j743by0u","password":"ok:15"}
+   waiting for signup Turnstile...
+   Turnstile done: token_ready (2s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (6s): https://identity.getpostman.com/verify-account?handover=84d9d81a97ef5c9ce50a223e
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=84d9d81a97ef5c9ce50a223eb2ba1603ba8f31705e79
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pmgybnigaiaa@uberip.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日本
+
+--- Step 2: Email Verification ---
+   code input ready (1s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pmgybnigaiaa@uberip.com...

@@ -1,0 +1,46 @@
+BATCH: 200 accounts, 4 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 1600M tokens
+[W0] job 0 start
+[W1] job 1 start
+[W2] job 2 start
+[W3] job 3 start
+[W3] job 3 FAILED in 8s: FAILED: no temp email available  =============================================
+[W3] job 7 start
+[W3] job 7 FAILED in 65s: unknown
+[W3] job 11 start
+[W1] job 1 FAILED in 238s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 5 start
+[W2] job 2 FAILED in 254s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 6 start
+[W3] job 11 DONE in 190s: pm7cmv8grb5j@uberip.com [completed]
+[W3] job 15 start
+[W0] job 0 DONE in 295s: pmpkbg43rg3s@uberip.com [completed]
+[W0] job 4 start
+[W1] job 5 FAILED in 180s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 9 start
+[W2] job 6 FAILED in 190s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 10 start
+[W3] job 15 FAILED in 195s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 19 start
+[W2] job 10 FAILED in 33s: unknown
+[W2] job 14 start
+[W0] job 4 FAILED in 193s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 8 start
+[W1] job 9 FAILED in 191s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 13 start
+[W3] job 19 FAILED in 192s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 23 start
+[W2] job 14 FAILED in 194s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 18 start
+[W0] job 8 FAILED in 192s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 12 start
+[W1] job 13 FAILED in 208s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 17 start
+[W3] job 23 DONE in 184s: pmvx9djrnkgq@uberip.com [completed]
+[W3] job 27 start
+[W2] job 18 DONE in 164s: pm1cwiitspzc@uberip.com [completed]
+[W2] job 22 start
+[W0] job 12 DONE in 194s: pmsmvqqb3bp1@uberip.com [completed]
+[W0] job 16 start
+[W0] job 16 FAILED in 11s: FAILED: no temp email available  =============================================
+[W0] job 20 start

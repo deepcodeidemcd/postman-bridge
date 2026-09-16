@@ -1,0 +1,26 @@
+BATCH: 6 accounts, 2 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 48M tokens
+[W0] job 0 start
+[W1] job 1 start
+[W0] job 0 FAILED in 191s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 2 start
+[W1] job 1 FAILED in 193s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 3 start
+[W0] job 2 DONE in 152s: pm910on4cohe@uberip.com [on_onboarding]
+[W0] job 4 start
+[W1] job 3 DONE in 154s: pmgfuguxce7c@uberip.com [completed]
+[W1] job 5 start
+[W0] job 4 DONE in 151s: pmv4pz2vqru7@uberip.com [completed]
+[W1] job 5 DONE in 151s: pmdtr1p56um9@uberip.com [completed]
+
+============================================================
+FINISHED in 498s (8.3 min)
+Success: 4/6 | Failed: 2
+Throughput: 0.5 acc/min | tokens this run: 32M
+Est. time for 125 acc at this rate: 259 min
+
+Failures:
+  job 0 [W0]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 1 [W1]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+
+Summary saved: batch_summary.json

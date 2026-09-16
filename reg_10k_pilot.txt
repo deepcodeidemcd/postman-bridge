@@ -1,0 +1,122 @@
+BATCH: 50 accounts, 5 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 400M tokens
+[W0] job 0 start
+[W1] job 1 start
+[W2] job 2 start
+[W3] job 3 start
+[W4] job 4 start
+[W0] job 0 FAILED in 8s: FAILED: no temp email available  =============================================
+[W0] job 5 start
+[W4] job 4 FAILED in 8s: FAILED: no temp email available  =============================================
+[W4] job 9 start
+[W1] job 1 FAILED in 8s: FAILED: no temp email available  =============================================
+[W1] job 6 start
+[W2] job 2 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 7 start
+[W4] job 9 FAILED in 202s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 14 start
+[W0] job 5 FAILED in 204s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 10 start
+[W3] job 3 FAILED in 219s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 8 start
+[W1] job 6 FAILED in 213s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 11 start
+[W1] job 11 FAILED in 7s: FAILED: no temp email available  =============================================
+[W1] job 16 start
+[W1] job 16 FAILED in 12s: FAILED: no temp email available  =============================================
+[W1] job 21 start
+[W1] job 21 FAILED in 13s: FAILED: no temp email available  =============================================
+[W1] job 26 start
+[W2] job 7 FAILED in 185s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 12 start
+[W0] job 10 FAILED in 209s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 15 start
+[W4] job 14 FAILED in 212s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 19 start
+[W3] job 8 FAILED in 224s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 13 start
+[W1] job 26 FAILED in 214s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 31 start
+[W2] job 12 DONE in 144s: pmeln3nkihod@uberip.com [completed]
+[W2] job 17 start
+[W0] job 15 DONE in 158s: pm1hbrbq83pt@uberip.com [completed]
+[W0] job 20 start
+[W3] job 13 DONE in 148s: pmlep1kwm7ke@uberip.com [completed]
+[W3] job 18 start
+[W4] job 19 FAILED in 234s: Turnstile timeout    Turnstile failed, retrying with page reload...    DOM rea
+[W4] job 24 start
+[W1] job 31 FAILED in 189s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 36 start
+[W0] job 20 DONE in 146s: pmud5cz9tluw@uberip.com [completed]
+[W0] job 25 start
+[W2] job 17 FAILED in 225s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 22 start
+[W3] job 18 FAILED in 189s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 23 start
+[W3] job 23 FAILED in 6s: FAILED: no temp email available  =============================================
+[W3] job 28 start
+[W4] job 24 DONE in 146s: pmxavvd6rnsc@uberip.com [completed]
+[W4] job 29 start
+[W1] job 36 FAILED in 173s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 41 start
+[W1] job 41 FAILED in 7s: FAILED: no temp email available  =============================================
+[W1] job 46 start
+[W0] job 25 DONE in 142s: pmh33fxilu4g@uberip.com [completed]
+[W0] job 30 start
+[W2] job 22 DONE in 149s: pm4ehr33dl5c@uberip.com [completed]
+[W2] job 27 start
+[W4] job 29 FAILED in 174s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 34 start
+[W1] job 46 FAILED in 185s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 28 FAILED in 237s: Turnstile timeout    Turnstile failed, retrying with page reload...    DOM rea
+[W3] job 33 start
+[W0] job 30 FAILED in 182s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 35 start
+[W2] job 27 DONE in 154s: pmzdqnjq2wxd@uberip.com [completed]
+[W2] job 32 start
+[W4] job 34 FAILED in 177s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 39 start
+[W3] job 33 FAILED in 174s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 38 start
+[W0] job 35 FAILED in 172s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 40 start
+[W2] job 32 FAILED in 179s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 37 start
+[W4] job 39 FAILED in 203s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 44 start
+[W3] job 38 FAILED in 205s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 43 start
+[W0] job 40 FAILED in 211s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 45 start
+[W2] job 37 FAILED in 204s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 42 start
+[W2] job 42 FAILED in 7s: FAILED: no temp email available  =============================================
+[W2] job 47 start
+[W4] job 44 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 49 start
+[W3] job 43 FAILED in 204s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 48 start
+[W0] job 45 FAILED in 212s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 47 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W4] job 49 FAILED in 203s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W3] job 48 FAILED in 204s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+
+============================================================
+FINISHED in 1809s (30.2 min)
+Success: 8/50 | Failed: 42
+Throughput: 0.3 acc/min | tokens this run: 64M
+Est. time for 125 acc at this rate: 471 min
+
+Failures:
+  job 0 [W0]: FAILED: no temp email available  =============================================
+  job 4 [W4]: FAILED: no temp email available  =============================================
+  job 1 [W1]: FAILED: no temp email available  =============================================
+  job 2 [W2]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 9 [W4]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 5 [W0]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 3 [W3]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 6 [W1]: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+  job 11 [W1]: FAILED: no temp email available  =============================================
+  job 16 [W1]: FAILED: no temp email available  =============================================
+
+Summary saved: batch_summary.json

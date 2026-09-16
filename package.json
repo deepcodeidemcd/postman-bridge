@@ -1,0 +1,30 @@
+{
+  "name": "postman-openai-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local OpenAI-compatible bridge backed by the authenticated Postman Agent Mode web UI.",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "start:dist": "node dist/server.js",
+    "doctor": "tsx scripts/doctor.ts",
+    "test": "node --import tsx --test test/*.test.ts"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1",
+    "playwright-core": "^1.50.1",
+    "sharp": "^0.35.4",
+    "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

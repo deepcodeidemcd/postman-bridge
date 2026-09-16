@@ -1,0 +1,159 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pm5wk7jrqsw2@emalupe.com
+   username: pmw39zav8eyy
+   password: PmMweAhHG4XDhk!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (6s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=c65b610e-0435-491a-9b55-49b068
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pm5wk
+   username: ok:pmw39
+   password: ok:PmMwe
+   verify: {"email":"pm5wk7jrqsw2@emalupe.com","username":"pmw39zav8eyy","password":"ok:15"}
+   waiting for signup Turnstile...
+   waiting for Turnstile... (2s)
+   waiting for Turnstile... (8s)
+   waiting for Turnstile... (14s)
+   Turnstile done: token_ready (16s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (4s): https://identity.getpostman.com/verify-account?handover=99308f53d8702c041f7ed8a0
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=99308f53d8702c041f7ed8a0404bd09090f4d95b7696
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pm5wk7jrqsw2@emalupe.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日
+
+--- Step 2: Email Verification ---
+   waiting for DOM... (2s, 1 inputs)
+   waiting for DOM... (12s, 1 inputs)
+   waiting for DOM... (22s, 1 inputs)
+   waiting for DOM... (32s, 1 inputs)
+   waiting for DOM... (42s, 1 inputs)
+   WARNING: verify form not loaded yet
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pm5wk7jrqsw2@emalupe.com...
+   email subject: 317846 is your account verification code
+   found code: 317846
+   code fill: single:verification-code
+   clicked verify button
+   verified (2s): https://pmw39zav8eyy-9648473.postman.co/onboarding/user?authFlowId=c65b610e-0435
+   screenshot: D:\hoat_hinh\Grokpool\check\1_04_after_verify.png
+
+--- Step 3: Complete onboarding ---
+   current URL: https://pmw39zav8eyy-9648473.postman.co/onboarding/user?authFlowId=c65b610e-0435
+   body: 
+   waiting for wizard... (2s)
+   wizard rendered (4s): {"inputs":3,"radios":0,"selects":0,"btnTexts":"1 member | 2-10 members | 11-50 members | 50+ members | Take me to my Workspace"}
+   screenshot: D:\hoat_hinh\Grokpool\check\1_07_onboarding_wizard.png
+   filled text inputs
+   dropdown 1: clicked:1 min2 stepswelcome 
+   pick 1: picked:Select option
+   dropdown 2: clicked:1 min2 stepswelcome 
+   pick 2: picked:Select option
+   dropdown 3: clicked:1 min2 stepswelcome 
+   pick 3: picked:Select option
+   clicked team size
+   clicked workspace button
+   onboarding submitted
+
+--- Step 4: Upgrade to Enterprise ---
+   navigating to postman.com...
+   waiting for dashboard, then atomic-click Upgrade...
+   waiting for Upgrade button... (3s)
+   Upgrade button clicked (6s): clicked
+   screenshot: D:\hoat_hinh\Grokpool\check\1_09_upgrade_modal.png
+   Enterprise plan clicked (2s): clicked_radio_via_parent
+   screenshot: D:\hoat_hinh\Grokpool\check\1_10_enterprise_selected.png
+   MODAL DUMP: {"modalText":"Upgrade to the Enterprise plan to access more featuresSolo $9 per  / monthFor individuals who want to move faster with AI and automationTeam $19 per seat / monthFor teams building and shipping APIs togetherEnterprise $49 per seat / monthFor organizations building, managing, and distributing APIs at scalePricing reflects annual plansContinue with Enterprise PlanStart Enterprise TrialEnterprise plan includes:API CatalogUnlimited private & partner workspacesPrivate API NetworkAdvanced RBAC & organization controlsGovernance, audit logs & reportingPrivate runners (tests and Flows)InsightsAdvanced Security Administration (add-on)Design and govern your APIs, all in one placeSpecHub is your single home for API design and governance. Author specs visually, convert them to collections 
+   Start Enterprise Trial clicked (2s): clicked_trial:Start Enterprise Trial
+   screenshot: D:\hoat_hinh\Grokpool\check\1_10_final.png
+   final URL: https://www.postman.com/
+   final text: Workspaces
+Search
+(
+Ctrl+K
+)
+Enterprise Trial ending in 7 days
+Upgrade
+1
+pmw39zav8eyy
+1 member
+Invite
+Postman works best with teams
+
+Collaborate in real-time and establish a single source of truth for all API workflows.
+
+Home
+Teams
+Workspaces
+Application Inventory
+API Catalog
+Private API Network
+Pub
+
+   SAVED (status: completed)
+
+==================================================
+RESULTS: 1/1 accounts registered
+  pm5wk7jrqsw2@emalupe.com - completed
+==================================================
+Exception ignored in: <function BaseSubprocessTransport.__del__ at 0x000002B39F1D9580>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\base_subprocess.py", line 125, in __del__
+    _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+                               ^^^^^^^^
+  File "C:\Python312\Lib\asyncio\base_subprocess.py", line 70, in __repr__
+    info.append(f'stdin={stdin.pipe}')
+                        ^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 80, in __repr__
+    info.append(f'fd={self._sock.fileno()}')
+                      ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\windows_utils.py", line 102, in fileno
+    raise ValueError("I/O operation on closed pipe")
+ValueError: I/O operation on closed pipe
+Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x000002B39F1DAD40>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 116, in __del__
+    _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+                               ^^^^^^^^
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 80, in __repr__
+    info.append(f'fd={self._sock.fileno()}')
+                      ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\windows_utils.py", line 102, in fileno
+    raise ValueError("I/O operation on closed pipe")
+ValueError: I/O operation on closed pipe
+Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x000002B39F1DAD40>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 116, in __del__
+    _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+                               ^^^^^^^^
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 80, in __repr__
+    info.append(f'fd={self._sock.fileno()}')
+                      ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\windows_utils.py", line 102, in fileno
+    raise ValueError("I/O operation on closed pipe")
+ValueError: I/O operation on closed pipe
+Exception ignored in: <function _ProactorBasePipeTransport.__del__ at 0x000002B39F1DAD40>
+Traceback (most recent call last):
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 116, in __del__
+    _warn(f"unclosed transport {self!r}", ResourceWarning, source=self)
+                               ^^^^^^^^
+  File "C:\Python312\Lib\asyncio\proactor_events.py", line 80, in __repr__
+    info.append(f'fd={self._sock.fileno()}')
+                      ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\asyncio\windows_utils.py", line 102, in fileno
+    raise ValueError("I/O operation on closed pipe")
+ValueError: I/O operation on closed pipe

@@ -1,0 +1,107 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pmpuo0gfrqdq@uberip.com
+   username: pma7vj439rsv
+   password: PmXdybfEYy3tsT!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (4s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=a465900d-1f7a-42ad-93f0-937505
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pmpuo
+   username: ok:pma7v
+   password: ok:PmXdy
+   verify: {"email":"pmpuo0gfrqdq@uberip.com","username":"pma7vj439rsv","password":"ok:15"}
+   waiting for signup Turnstile...
+   Turnstile done: token_ready (2s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (4s): https://identity.getpostman.com/verify-account?handover=255395b176e1f442290b200a
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=255395b176e1f442290b200a9198a3ea8a2ee7778336
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pmpuo0gfrqdq@uberip.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日本
+
+--- Step 2: Email Verification ---
+   code input ready (1s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pmpuo0gfrqdq@uberip.com...
+   email subject: 299679 is your account verification code
+   found code: 299679
+   code fill: single:verification-code
+   clicked verify button
+   verified (2s): https://pma7vj439rsv-5779868.postman.co/onboarding/user?authFlowId=a465900d-1f7a
+   screenshot: D:\hoat_hinh\Grokpool\check\1_04_after_verify.png
+
+--- Step 3: Complete onboarding ---
+   current URL: https://pma7vj439rsv-5779868.postman.co/onboarding/user?authFlowId=a465900d-1f7a
+   body: 
+   waiting for wizard... (2s)
+   wizard rendered (6s): {"inputs":0,"radios":0,"selects":0,"btnTexts":"Try Native Git"}
+   screenshot: D:\hoat_hinh\Grokpool\check\1_07_onboarding_wizard.png
+   trusted_click name input: no coords ()
+   name value now: Auto User
+   trusted_click dropdown 1: no coords (409)
+   no dropdown left (round 1)
+   trusted_click team size: 1 member (442,497)
+   trusted_click workspace btn: take me to my workspace (632,569)
+   onboarding submitted
+
+--- Step 4: Upgrade to Enterprise ---
+   navigating to postman.com...
+   waiting for dashboard to fully load...
+   waiting for load... (2s, spinner=True)
+   waiting for load... (12s, spinner=True)
+   waiting for load... (22s, spinner=True)
+   waiting for load... (32s, spinner=True)
+   waiting for load... (42s, spinner=True)
+   waiting for load... (52s, spinner=True)
+   looking for Upgrade button...
+   Upgrade button clicked (3s): clicked:upgrade
+   screenshot: D:\hoat_hinh\Grokpool\check\1_09_upgrade_modal.png
+   Enterprise plan clicked (2s): clicked_radio_via_parent
+   Enterprise plan clicked (2s): clicked_enterprise
+   screenshot: D:\hoat_hinh\Grokpool\check\1_10_enterprise_selected.png
+   Start Trial clicked (2s): clicked_trial:Start Enterprise Trial
+   screenshot: D:\hoat_hinh\Grokpool\check\1_10_final.png
+   final URL: https://www.postman.com/
+   final text: Workspaces
+Search
+(
+Ctrl+K
+)
+Upgrade
+pma7vj439rsv
+1 member
+Invite
+Postman works best with teams
+
+Collaborate in real-time and establish a single source of truth for all API workflows.
+
+Home
+Teams
+Workspaces
+Application Inventory
+API Catalog
+Private API Network
+Public API Network
+Integrations
+Reports
+
+   SAVED (status: completed)
+
+==================================================
+RESULTS: 1/1 accounts registered
+  pmpuo0gfrqdq@uberip.com - completed
+==================================================

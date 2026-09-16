@@ -1,0 +1,80 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pmhv01yh19bq@uberip.com
+   username: pm3qw3axv2pj
+   password: PmumAvpY1pz4MA!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (10s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=2ef5ad3f-a720-4095-85b1-2dd70e
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pmhv0
+   username: ok:pm3qw
+   password: ok:PmumA
+   verify: {"email":"pmhv01yh19bq@uberip.com","username":"pm3qw3axv2pj","password":"ok:15"}
+   waiting for signup Turnstile...
+   Turnstile done: token_ready (2s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (4s): https://identity.getpostman.com/verify-account?handover=e79680628d7a6bf8ad30b62f
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=e79680628d7a6bf8ad30b62fa2987fd6c4cf8671111c
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pmhv01yh19bq@uberip.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日本
+
+--- Step 2: Email Verification ---
+   code input ready (1s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pmhv01yh19bq@uberip.com...
+   email subject: 657124 is your account verification code
+   found code: 657124
+   code fill: single:verification-code
+   clicked verify button
+   verified (2s): https://pm3qw3axv2pj-4107123.postman.co/onboarding/user?authFlowId=2ef5ad3f-a720
+   screenshot: D:\hoat_hinh\Grokpool\check\1_04_after_verify.png
+
+--- Step 3: Complete onboarding ---
+   current URL: https://pm3qw3axv2pj-4107123.postman.co/onboarding/user?authFlowId=2ef5ad3f-a720
+   body: 
+   waiting for wizard... (2s)
+   wizard rendered (4s): {"inputs":3,"radios":0,"selects":0,"btnTexts":"Try Native Git | 1 member | 2-10 members | 11-50 members | 50+ members | Take me to my Workspace"}
+   screenshot: D:\hoat_hinh\Grokpool\check\1_07_onboarding_wizard.png
+   trusted_click name input: no coords (323)
+   name value now: Auto User
+   trusted_click dropdown 1: no coords (409)
+   no dropdown left (round 1)
+   trusted_click team size: 1 member (442,497)
+   trusted_click workspace btn: take me to my workspace (632,569)
+   onboarding submitted
+
+--- Step 4: Upgrade to Enterprise ---
+   session verified (attempt 1): logged in
+   navigating to postman.com...
+   waiting for dashboard to fully load...
+   waiting for load... (2s, spinner=True)
+   waiting for load... (12s, spinner=True)
+   waiting for load... (22s, spinner=True)
+   waiting for load... (32s, spinner=True)
+   waiting for load... (42s, spinner=True)
+   waiting for load... (52s, spinner=True)
+   looking for Upgrade button...
+   waiting for Upgrade button... (3s)
+   waiting for Upgrade button... (18s)
+   waiting for Upgrade button... (33s)
+   FAILED: Upgrade button never clickable
+   screenshot: D:\hoat_hinh\Grokpool\check\1_08_no_upgrade_btn.png
+
+==================================================
+RESULTS: 0/1 accounts registered
+==================================================

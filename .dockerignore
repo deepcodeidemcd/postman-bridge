@@ -1,0 +1,10 @@
+node_modules
+.sessions
+.postman-profile
+*.log
+*.jsonl
+test_*.py
+reg_*.log
+proxy_reg.py
+debug_*.py
+scripts/

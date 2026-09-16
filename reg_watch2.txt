@@ -1,0 +1,47 @@
+Postman Enterprise Registration - 1 account(s)
+
+==================================================
+ACCOUNT 1
+==================================================
+   email: pmresf1eihsf@uberip.com
+   username: pmfs05at0ylg
+   password: PmEhzD1tZcaXSr!
+
+--- Step 1: Signup ---
+   waiting for DOM... (2s, 0 inputs)
+   DOM ready (4s, 5 visible inputs)
+   URL: https://identity.getpostman.com/signup?authFlowId=97024936-98a4-4264-9a53-6cd419
+   screenshot: D:\hoat_hinh\Grokpool\check\1_01_signup_page.png
+   email: ok:pmres
+   username: ok:pmfs0
+   password: ok:PmEhz
+   verify: {"email":"pmresf1eihsf@uberip.com","username":"pmfs05at0ylg","password":"ok:15"}
+   waiting for signup Turnstile...
+   Turnstile done: token_ready (2s)
+   clicked Create Free Account
+   waiting... (2s)
+   navigated (4s): https://identity.getpostman.com/verify-account?handover=193b399b2546d0abdec19f45
+   screenshot: D:\hoat_hinh\Grokpool\check\1_02_after_signup.png
+   after signup URL: https://identity.getpostman.com/verify-account?handover=193b399b2546d0abdec19f454534fa4699178743857e
+   after signup body: Verify your account
+Verification code
+We have sent a verification code to pmresf1eihsf@uberip.com
+Verify Account
+I've Verified My Account
+
+Didn't receive the email? Resend verification code
+
+English日本
+
+--- Step 2: Email Verification ---
+   code input ready (1s)
+   screenshot: D:\hoat_hinh\Grokpool\check\1_03_verify_page.png
+[*] Waiting for verification email at pmresf1eihsf@uberip.com...
+   email subject: 771183 is your account verification code
+   found code: 771183
+   code fill: single:verification-code
+   clicked verify button
+   waiting... (2s)
+   waiting... (12s)
+   waiting... (22s)
+   waiting... (32s)

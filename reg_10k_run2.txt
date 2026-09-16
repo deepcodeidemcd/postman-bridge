@@ -1,0 +1,57 @@
+BATCH: 300 accounts, 3 parallel workers
+Target: 1B tokens = 125 accounts | this run contributes 2400M tokens
+[W0] job 0 start
+[W1] job 1 start
+[W2] job 2 start
+[W1] job 1 FAILED in 221s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 4 start
+[W2] job 2 FAILED in 224s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 5 start
+[W0] job 0 FAILED in 227s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 3 start
+[W0] job 3 DONE in 154s: pm2yurcxpj8k@uberip.com [completed]
+[W0] job 6 start
+[W2] job 5 DONE in 158s: pm9rvl5nzz71@uberip.com [completed]
+[W2] job 8 start
+[W1] job 4 DONE in 163s: pmyuf4p64dgk@uberip.com [completed]
+[W1] job 7 start
+[W0] job 6 DONE in 166s: pmiomat6i1rg@uberip.com [completed]
+[W0] job 9 start
+[W1] job 7 DONE in 186s: pmalrj5zgxqt@uberip.com [completed]
+[W1] job 10 start
+[W2] job 8 DONE in 189s: pmnr35nquzzl@uberip.com [completed]
+[W2] job 11 start
+[W0] job 9 FAILED in 210s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 12 start
+[W1] job 10 FAILED in 217s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 13 start
+[W2] job 11 FAILED in 266s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 14 start
+[W0] job 12 FAILED in 203s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 15 start
+[W1] job 13 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 16 start
+[W2] job 14 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 17 start
+[W0] job 15 FAILED in 212s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 18 start
+[W1] job 16 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 19 start
+[W2] job 17 FAILED in 206s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 20 start
+[W1] job 19 FAILED in 215s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 22 start
+[W0] job 18 FAILED in 255s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 21 start
+[W2] job 20 FAILED in 207s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 23 start
+[W0] job 21 FAILED in 212s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 24 start
+[W2] job 23 FAILED in 207s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 26 start
+[W1] job 22 FAILED in 259s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W1] job 25 start
+[W0] job 24 FAILED in 203s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W0] job 27 start
+[W2] job 26 FAILED in 208s: FAILED: Upgrade button never clickable    screenshot: D:\hoat_hinh\Grokpool\che
+[W2] job 29 start

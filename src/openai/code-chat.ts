@@ -577,7 +577,10 @@ async function runUpstreamTurn(
     throw new QuotaExhaustedError();
   }
   if (!content.trim()) {
-    throw new Error('empty response from upstream');
+    // Empty response = upstream server error (503, 502, timeout, etc.)
+    // Treat as transient — throw SessionExpiredError so pool switches slot
+    console.log(`[code-chat] empty upstream response, switching slot`);
+    throw new SessionExpiredError();
   }
   console.log(`[code-chat] upstream timing: ttfb=${r.ttfbMs ?? '?'}ms total=${r.totalMs ?? '?'}ms len=${content.length}`);
   return content;

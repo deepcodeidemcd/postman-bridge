@@ -154,7 +154,7 @@ export async function postmanAwsVisionChat(
     throw new Error(`Vision agent loop failed: ${errMsg}`);
   }
   console.log(`[vision] answer: ${(answer || '').slice(0, 200)}`);
-  if (!answer || answer.trim().length === 0) throw new Error('empty response from upstream');
+  if (!answer || answer.trim().length === 0) throw new SessionExpiredError();
   if (isCreditLimitError(answer)) throw new QuotaExhaustedError();
   console.log(`[vision] SUCCESS: ${answer.slice(0, 150)}`);
   return sanitizeBranding(answer);

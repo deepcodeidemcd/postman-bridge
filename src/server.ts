@@ -112,8 +112,28 @@ try {
   }
   await app.listen({ host: config.server.host, port: config.server.port });
   app.log.info(`OpenAI base URL: http://${config.server.host}:${config.server.port}/v1`);
-  // Build marker: bump when deploying so logs prove which code is live.
   app.log.info('bridge build=20260911-evidence-retry');
+
+  // KEEP-ALIVE: self-ping every 30 seconds to prevent Render free tier from
+  // sleeping after 15 minutes of inactivity. Only activates when running on
+  // Render (detected by RENDER env var) or when BRIDGE_KEEPALIVE=true.
+  if (process.env.RENDER || process.env.BRIDGE_KEEPALIVE === 'true') {
+    const port = config.server.port;
+    const host = config.server.host === '0.0.0.0' ? '127.0.0.1' : config.server.host;
+    const url = `http://${host}:${port}/v1/models`;
+    setInterval(async () => {
+      try {
+        const res = await fetch(url, {
+          headers: { 'Authorization': 'Bearer sk-postman-local' },
+          signal: AbortSignal.timeout(10000),
+        });
+        app.log.info(`[keepalive] ping ${res.status}`);
+      } catch (e) {
+        app.log.warn(`[keepalive] ping failed: ${e instanceof Error ? e.message : e}`);
+      }
+    }, 30000);
+    app.log.info('[keepalive] self-ping enabled (every 30s)');
+  }
 } catch (error) {
   app.log.error(error);
   await browser.close().catch(() => undefined);

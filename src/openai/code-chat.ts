@@ -509,7 +509,14 @@ async function runUpstreamTurn(
         credentials: 'include',
       });
       if (res.status === 401 || res.status === 403) return { error: `AUTH_EXPIRED:${res.status}` };
-      if (!res.ok) return { error: `${res.status}: ${(await res.text()).slice(0, 200)}` };
+      if (!res.ok) {
+        const errText = await res.text().catch(() => '');
+        // Cloudflare tunnel error pages are HTML — treat as transient
+        if (errText.includes('<!DOCTYPE html') || errText.includes('trycloudflare')) {
+          return { error: `CLOUDFLARE_ERROR:${res.status}` };
+        }
+        return { error: `${res.status}: ${errText.slice(0, 200)}` };
+      }
       const reader = res.body?.getReader();
       if (!reader) return { error: 'no stream reader' };
 
@@ -570,6 +577,10 @@ async function runUpstreamTurn(
   const r = result as { text?: string; error?: string; ttfbMs?: number | null; totalMs?: number };
   if (r.error) {
     if (r.error.includes('AUTH_EXPIRED')) throw new SessionExpiredError();
+    // Cloudflare tunnel errors = transient, switch slot
+    if (r.error.includes('CLOUDFLURE_ERROR') || r.error.includes('502') || r.error.includes('503')) {
+      throw new SessionExpiredError();
+    }
     throw new Error(`upstream: ${r.error}`);
   }
   const content = r.text ?? '';

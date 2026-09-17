@@ -1,1 +1,467 @@
-{"cookies": [{"name": "_pm.uid", "value": "PM.MjAyNi0wOS0xNFQxMzoyOTozMy4xNjVa", "domain": ".postman.com", "path": "/", "expires": 1823952574.416255, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "dwndvc", "value": "940b8a0de6d32e8a0ea9babc146f1ea01bb36cd921d8a887321dbf1cfd1d1d34", "domain": "identity.getpostman.com", "path": "/", "expires": 1823088626.743919, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "AWSALBTG", "value": "74NjUsZC4Z/cN00N+3nTSQyePD7R870AjNejHaHyrzHWKNNyoZWtpt9V/3qA8ysIIWZWYvUq87ilxHuxDe01mD756wq7gN+l7WmJGq6apQJotRFbe9QrPyyFhzk4gJ1JXDPFv64uNWdNTjKXTnVlzlqvW7aMJO4I6ozfor34+fUn+UsQWMo=", "domain": "www.postman.com", "path": "/", "expires": 1789997374.416036, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "postman.sid", "value": "a5b3f9c314e61b17db6ea163a84d4c6d5b95dd73c5d25dd8faf6f36ebe6ca66ac97bc93ea00bc17bdd4634def7f6ad978f30e3bf094995d7a675f6d6ed6add0e092e21a90515c96286c0b1c574bc91dc91c693903bdb2b1af1e0d35d12d6d8390ebc99c49cd9f08f5f6a13f52f46e926a5b89ea369508d5ce2cfc13a6e773184370ff83f2fbf02795281dd776e334dd166b1b4b221aed235bc47fae7b7dd7a1c29d8f56a65e2438a5727de4190285f21d6ee4fadcc7df5551cf7b8937f9e41f8585c6d6390ec9f91dd1766bbf6724c2686e5a5e1d824ad1cdcc5c6384cbcb52e7f442cdf13885da6e224fb964ce47eebb7c18d0e6f0def334ba44f019eb5337c6ffcc702caf7d3b78108fd9ec6ac23cf440a6fa908d34aacf315250403e6b3794663ef3ab7a3cb0dc7f1f7e19b8934570e0ca4ac5ea9bb100b29ff3d91e8dfad4f4eb3278e0874e45453927026909079986c47b28a7f6f56df60af997dcefb4fc5dfddd1b18848f8b062a3ceed2f1b47800e9b6da71337f89d0bc603456d127d76d621e98d51bccef66e5a6875a022a02afcb501b20c611671fb0fc28519361c03fc41befb987f2f6088d0cea4030d1fa8adb44f8419fc28e677a79990b5e2aca149a41098596530e417ee30f67708afd227d0f136dbd9ae36fcfad510d1b8", "domain": ".www.postman.com", "path": "/", "expires": 1791984687.278058, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "sails.sid", "value": "s%3AmGdlcF8IkEe5aC23eLQY8gSbhCZx5dX9.ce%2Bv%2Fe4YafmTJ%2BF6Bwg0ZxnU%2BYm3t73ZEHLG3vIL%2B8M", "domain": "identity.getpostman.com", "path": "/", "expires": 1789479134.842815, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "dwnjrn", "value": "e1c226c9572d008cc41986faf82e059025d2978473aacbc0ccbcfc23247e6587", "domain": "identity.getpostman.com", "path": "/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "__cf_bm", "value": "elndJZ5fr_iPhsrRsr7oKp2fas7PX6KODkHWV15YX00-1789392573.1510963-1.0.1.1-TNtgr9QAssDLfTRqlO8oHfaQ3SabM4CneYCQA6A.zw3xAKT5HWxEn8bTJ6x6fPL63.2gc.vLtgBng0O_lloqkZ.GOHjBmHTPMJLLSCAPwxLo9z2OjspFgFai1v9kUViO", "domain": ".postman.com", "path": "/", "expires": 1789394374.416311, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "postman.iam.sid", "value": "iam-16f53bb6878e1b5db647787695d71fad4bb53a95e158827e0e6314feabd8a7af948e298032c2e557b133a1934351834f30b095a9b306a853c79d39429c68d548938130f82a8df988c1481bcad46b86a7262193b27e3d29094212f7c651cec397e81ad5e547a4ff5ee603be3058cda48276218b09c948dc6d02ce76933221cb9bf22a5f721980a2dac478fb72a3c077581d3fe08633e71c10a804af074696cc85fd92132238da5a546cac83e6ab7c4ce98c768edf260d8011566e05b61b47629c9d0caf30a85f926f8eff7d4559086dc1ea8fd7ead2a47e0c0d2597ecc090e97645694016342cdb318259e1f17509198efd5a1fbd88f790ac719da9af92d99fc52e7c70e8e8217aa47cd752645da2252e2f1df53a5e98ccb0e35d2a14ccca286daa5e9ae9b5d3c2027f2a61ce6e3dc20a791761e0d7e4882df9361c4b3d4d9c021b7c5fdbaba8e6019250101fe0bb7aa2ed06bfad6d9223e808ad50668d9c1eec4ddd52bdc00ddd850f341616914bbf48288167a69d70c52b4d8bcc4197db2d9ff9dfd4e178c6a9a38d3e8958eb3f90f0aaa48c8785e0e984c698951bf239ad61b420d4e6de26490730f2e1b6a7b5cb9d3d7e97d48d82a0308f810dd624a4e0d5f0662c806925abc08ed03ec013b29a7833564bdc8a45eb6511f76e7e38bc689c29aa95af3f931d97a300efc24cad586b1a5054dfff8155edf75b52e424919711e93c62edfea20eceed78408c68b2dc90919eb88fef8eed280523d35684256784fa0918aebd53f24303a656237af39c7c4206a118a0c987a364d1763dce0a9da5828918a89578525d8bc54ca4b67d9400ea9994ad20cd160f530a39b782e8c02425afaef4e385b115380e04172f009ce96346b3f9685cc07e4c9eee985172fc74a2d3ecfe58a16f27ea001ce1f0fd21ffd3cd3549ad323618241d66f5779c60864aa45e300e994c5e7eaade80b540d11e5e293a32c5cb77ed24808c3ba6791bab9533c666ed4a783e7b1f695ea3d606d24cc510e41a1903928d6b84d8bc55c9f763fdc6e88884ac00722af42e8b3833a59bde35bb0dc9ca5fac7da195be2bfa836a4de32141d6a58d30e358684940683c202a401b76036d3bd9f9cad2e60fd5ea2475426bc8b3158d20ffddcef26a690a51744d0b2322d450f470467a242722fd3847e28ba20e4401577de678e977fe09637cedbca625afb0bfe3aa00323c1a1e65d4d16d55cc64ed5db761858d142de838eae03ccd0f41fd21713a197eac03a3bed25772db60c621ae2fa7ceb806d44039299daafbb6efd45d3bcd41680f02f6aa6ba2bbd3ee6737da189f336a1177c7a666fe0bb19261d713dfca00a91cc3bcd7da2087b08eb16aa0d4b20b5016", "domain": ".identity.getpostman.com", "path": "/", "expires": 1791984734.842486, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "__cfseq-00_gcB4l4", "value": "tlBp26LkCev5ORqjoiH98eTeqULmgDeJgHo4CicFsWoOKZPKqO70LawIsU-4k9xS7Y0CxJPMEh8dJ6Fdp_CU0_ahOuspfWxzk20trH5CS4614Wh_9WsQo6kyVcPVxkHEqiw-crzTMd2IrI6_SFizxAOa5HjdP6MJDSNcAMRr7Gqhq4_4Bz7MbIClg88", "domain": ".identity.getpostman.com", "path": "/", "expires": 1789396334.842876, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "analytics_session_id.last_access", "value": "1789392708612", "domain": ".getpostman.com", "path": "/", "expires": 1820928708.0, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "dashboard_beta", "value": "yes", "domain": ".postman.com", "path": "/", "expires": 1820928735.61641, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "ajs_anonymous_id", "value": "5ac76dc4-cd9f-4936-8b8c-bf36ce466d07", "domain": ".getpostman.com", "path": "/", "expires": 1820928708.0, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_cfuvid", "value": "xiB.6SZNrvS_ndoHLzDvdM4jYztI1qiFZ80R9w7m1dQ-1789392626.015664-1.0.1.1-SgtMAWyuDQBDwyiU5bJKTCt992atGkzK8jKZOvoOisk", "domain": ".identity.getpostman.com", "path": "/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "_pm.uid", "value": "PM.MjAyNi0wOS0xNFQxMzozMDoyNi4wMzBa", "domain": ".getpostman.com", "path": "/", "expires": 1823952626.743824, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "_cfuvid", "value": "spLxZVjUCHAOSCxUlFSfi8J97ldnpviNHF0PlPflDbs-1789392663.1589332-1.0.1.1-Zcj9Wy_1t2kLL32VcB.mRZ9LY_meOri5Pi7cR0jOP6s", "domain": ".postman.co", "path": "/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "getpostmanlogin", "value": "yes", "domain": ".getpostman.com", "path": "/", "expires": 1791984734.842612, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "dashboard_beta", "value": "yes", "domain": ".getpostman.com", "path": "/", "expires": 1820928734.842663, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "AMP_56d4a7f424", "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4NDhhYmY2Ny01MTBiLTRjMWEtYmIwZC1hNWFlYTRhZDA4YzQlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjJlNWE1YWE1MS01NzFjLTQ1MTktODk0Mi0xYjIxNmI0ZDY0M2MlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzg5MzkyNjc3Mjk4JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc4OTM5Mjc1MDU2OSUyQyUyMmxhc3RFdmVudElkJTIyJTNBMTElMkMlMjJwYWdlQ291bnRlciUyMiUzQTIlN0Q=", "domain": ".postman.co", "path": "/", "expires": 1820928750.0, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_SERVICE_PUB_ID", "value": "a01d337803cf00000170d5da", "domain": ".www.postman.com", "path": "/", "expires": 1791984687.278137, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "_cfuvid", "value": "xRYtbW8ewXfROnh2.D_bQes4KPlpMza._BnJPEkgh94-1789392664.1874802-1.0.1.1-BDnVBV7ioyjkzuuE85t.2xERUsq9306Dg310aPOyE88", "domain": ".postman.com", "path": "/", "expires": -1, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "__cf_bm", "value": "AKGbnf3z4KtRQlFy69ve8vake1tFi.t_.lqPmdx8HOM-1789392625.4157639-1.0.1.1-32Bzdun8CQB3x8dKIE5IHsudZrlV82rdqtymp4mWEAnZgEB_lRKeaPu92_vFejRYEtP_Ym3Hj1AOuZdKiUdolAzNOfjDEt4Hqmawpc86UNptNHhrkJo9TaBFJ5ScQzEO", "domain": ".identity.getpostman.com", "path": "/", "expires": 1789394425.652929, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "AWSALBTGCORS", "value": "74NjUsZC4Z/cN00N+3nTSQyePD7R870AjNejHaHyrzHWKNNyoZWtpt9V/3qA8ysIIWZWYvUq87ilxHuxDe01mD756wq7gN+l7WmJGq6apQJotRFbe9QrPyyFhzk4gJ1JXDPFv64uNWdNTjKXTnVlzlqvW7aMJO4I6ozfor34+fUn+UsQWMo=", "domain": "www.postman.com", "path": "/", "expires": 1789997374.416195, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "analytics_session_id", "value": "1789392638899", "domain": ".getpostman.com", "path": "/", "expires": 1820928708.0, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "postman.meta", "value": "eyJhY2NvdW50IjoiZjZiYTFkMzQ1ZDlkYTUyZGY5Y2ZjMzI2ZmJhOTQxNWU3MTg5MDk1MWE1ZjNjMDA2YTkyM2Y1NzY1MWM2MzdkMGY3ODBhNTc3NzZmYzE2OTlhZWM4OWY2Y2RiNjM2NGFmMDQ5M2Y5MTYxMzUxNzMyMDkwZjAyNTMzMWVlYTYzZGYifQ%3D%3D", "domain": ".getpostman.com", "path": "/", "expires": 1820928734.842761, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "getpostmanlogin", "value": "yes", "domain": ".postman.com", "path": "/", "expires": 1791984735.616366, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "__cf_bm", "value": "5CawwLxUrxlSGipbB_IjX6YIF8UgwznMT2mEo09Fob4-1789392626.8598528-1.0.1.1-EYe.sZ6F8hz5QqhVeMSmf14RnAJHe1UCGmBK_c1.aWpe8atguOSBn4qYLtHhRtanpYZr4ejKT.YyN9_qWVoqQhFvmiune404IpjNtX5N7v.oFazRiBX.RojQ3SacQkwQ", "domain": ".getpostman.com", "path": "/", "expires": 1789394427.014907, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "_pm.store", "value": "{\"userId\":\"PM.MjAyNi0wOS0xNFQxMzoyOTozMy4xNjVa\",\"traceId\":\"pmMTc4OTM5MjU3MzE2NQ==|PM.MjAyNi0wOS0xNFQxMzoyOTozMy4xNjVa\",\"session\":999,\"time\":1789392687196}", "domain": ".postman.com", "path": "/", "expires": 1823952688.604708, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "__cf_bm", "value": "m1YkDFZO_TCCQEGYMEM.yPuqY5m8B9Rr1GQtHvx4naw-1789392663.1589332-1.0.1.1-52rMfttg6Nsx.Q4JPFbwnJZSK8W2nc_1lEX5jEE2W14h6Ekyzj.Yk60EOwoTYICRUK0jcCYs40I4IBnTKES_7SfnIF.kBKpc37Ie8tM_aCfo2ZddKL4O8_ELP_x58I5Y", "domain": ".postman.co", "path": "/", "expires": 1789394463.845444, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "AMP_MKTG_56d4a7f424", "value": "JTdCJTdE", "domain": ".postman.co", "path": "/", "expires": 1820928677.0, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "legacy_sails.sid", "value": "s%3AmGdlcF8IkEe5aC23eLQY8gSbhCZx5dX9.ce%2Bv%2Fe4YafmTJ%2BF6Bwg0ZxnU%2BYm3t73ZEHLG3vIL%2B8M", "domain": "identity.getpostman.com", "path": "/", "expires": 1789479026.743673, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "postman.sid", "value": "91bebfd7d4adca801cf5d9089fd18537ba4c93429077438ac80ce2ab3d9d108f88c57d3260a82a018c4a0b25d9f0eac1666af5f878dfd8e0979d9625778c4224fe23d142d85021247420e7697224b2bf348aab368c149e7c083b8961014025ba5ef0073cfffbb24886c83e55fe06c6d60c1514276532bf517015d8ff0ba7f9ee642fdcef4c45879403673e81a0552ff0e0f1d600b236c1087de63109f49fa44123d77e42bce1eb82d9b814cbcd323b8c7269fdb65d369efab35008e9c27022c28515e10355ab9337608039853a10fffcf7cfa3762a87623b2b12325dd026a1e68cec6b4a52ed1fccda37ccad7bce3783eb868a93506c3703310b957557aade421a91a0647463359130122f3f7a1f8ff2292178041d9c9b4276148795197e20656bac1cb753c063ab5e4b6621f69dbd3155d8b91a5164a57cdfa893acce41c393758ba46051aa9d4d0752ac27a6092be540c34da0322f6a07be5792da7fc081377b52a38c757adec30c3750c1de5d8539edbd440bbb8877c3bb80c07a40c90eb44ce65e304f8190019b1bbe730e3a41955fec003a76b8e1c0c1d894f7fb80f94c2d1ea650259b7ebd0d1b5b986448220041c2715b01f01e87f5d70f2bb2876c9f13345b827ea9cf58d0975cff369b6db9c423dcca276676075934f92e609bf6", "domain": ".postman.co", "path": "/", "expires": 1791984735.211508, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "_pm.store", "value": "{\"userId\":\"PM.MjAyNi0wOS0xNFQxMzozMDoyNi4wMzBa\",\"traceId\":\"pmMTc4OTM5MjYyNjAzMA==|PM.MjAyNi0wOS0xNFQxMzozMDoyNi4wMzBa\",\"session\":4547,\"time\":1789392731755,\"polaris\":\"5ac76dc4-cd9f-4936-8b8c-bf36ce466d07\"}", "domain": ".getpostman.com", "path": "/", "expires": 1823952731.757667, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "dashboard_beta", "value": "yes", "domain": ".postman.co", "path": "/", "expires": 1820928735.211733, "httpOnly": true, "secure": true, "sameSite": "Lax"}, {"name": "viewer-country", "value": "VN", "domain": "www.postman.com", "path": "/", "expires": 1789396174.416228, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "_PUB_ID", "value": "a01e48d03de58e000108e6e2", "domain": ".postman.com", "path": "/", "expires": 1791984735.616449, "httpOnly": false, "secure": true, "sameSite": "Lax"}, {"name": "pm_dvc", "value": "eyJkZXZpY2VJZCI6ImEwMjM2ZWZiLWQyMjUtNDdkNi05OTMyLWIzOGNjMTg1YjdhYyIsInR1cm5zdGlsZSI6eyJzdWNjZXNzQXR0ZW1wdHMiOjAsInRvdGFsQXR0ZW1wdHMiOjAsImZhaWxlZEF0dGVtcHRzIjowLCJleHBpcmVkQXR0ZW1wdHMiOjAsInRpbWVvdXRBdHRlbXB0cyI6MH19", "domain": ".identity.getpostman.com", "path": "/", "expires": 1791984734.0, "httpOnly": false, "secure": false, "sameSite": "Lax"}, {"name": "_PUB_ID", "value": "a01e48d03de58e000108e6e2", "domain": ".getpostman.com", "path": "/", "expires": 1791984734.842711, "httpOnly": false, "secure": true, "sameSite": "Lax"}], "origins": [{"origin": "https://pmgi8mzqw98v-1548335.postman.co", "localStorage": [{"name": "amp-exp-$default_instance-dGqAAS-flags", "value": "{\"grw-2118-team-creator-personalization\":{\"key\":\"grw-2118-team-creator-personalization\",\"metadata\":{\"deployed\":true,\"evaluationMode\":\"remote\",\"experimentKey\":\"exp-1\",\"flagType\":\"experiment\",\"flagVersion\":34},\"segments\":[{\"metadata\":{\"segmentName\":\"default\"},\"variant\":\"off\"}],\"variants\":{\"control\":{\"key\":\"control\",\"payload\":{\"isEnabled\":false,\"variationName\":\"control\"},\"value\":\"control\"},\"off\":{\"key\":\"off\",\"metadata\":{\"default\":true}},\"variant\":{\"key\":\"variant\",\"payload\":{\"isEnabled\":true,\"variationName\":\"variant\"},\"value\":\"variant\"}}}}"}, {"name": "AMP_unsent_56d4a7f424", "value": "[{\"user_id\":\"58172413\",\"device_id\":\"848abf67-510b-4c1a-bb0d-a5aea4ad08c4\",\"session_id\":1789392677298,\"time\":1789392750497,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"ce055943-6ace-456f-85f7-b78a2c4a7be0\",\"event_type\":\"Signed In Homepage - Page Viewed\",\"event_properties\":{\"url\":\"https://pmgi8mzqw98v-1548335.postman.co/home\",\"user_id\":\"e5a5aa51-571c-4519-8942-1b216b4d643c\",\"app_version\":\"12.28.0-260914-0231\",\"release_channel\":\"prod\",\"platform\":\"browser\",\"current_url\":\"home\",\"event_source\":\"client_app\",\"team_user_id\":\"58172413\",\"team_id\":\"41521407\",\"company_size\":0,\"workspace_visibility\":null,\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\",\"user_roles\":\"admin,billing,user,community-manager,api-governance-manager,api-catalog-manager\",\"user_domain_professional\":true,\"user_email_verified\":true},\"event_id\":8,\"library\":\"amplitude-ts/2.7.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\",\"user_properties\":{\"app_version\":\"12.28.0-260914-0231\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"}},{\"user_id\":\"e5a5aa51-571c-4519-8942-1b216b4d643c\",\"device_id\":\"848abf67-510b-4c1a-bb0d-a5aea4ad08c4\",\"session_id\":1789392677298,\"time\":1789392750567,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"abddfd6d-7d12-4142-88e1-160ba6dabdb8\",\"event_type\":\"$identify\",\"user_properties\":{\"app_version\":\"12.28.0-260914-0231\",\"$set\":{\"userId\":\"e5a5aa51-571c-4519-8942-1b216b4d643c\",\"multi_team_enabled\":true},\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"},\"event_id\":9,\"library\":\"amplitude-ts/2.7.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\",\"event_properties\":{}},{\"user_id\":\"e5a5aa51-571c-4519-8942-1b216b4d643c\",\"device_id\":\"848abf67-510b-4c1a-bb0d-a5aea4ad08c4\",\"session_id\":1789392677298,\"time\":1789392750568,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"e214d626-6a23-464f-b424-4753d7ab3116\",\"event_type\":\"$identify\",\"user_properties\":{\"app_version\":\"12.28.0-260914-0231\",\"$set\":{\"email_domain\":\"uberip.com\"},\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"},\"event_id\":10,\"library\":\"amplitude-ts/2.7.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\",\"event_properties\":{}},{\"user_id\":\"e5a5aa51-571c-4519-8942-1b216b4d643c\",\"device_id\":\"848abf67-510b-4c1a-bb0d-a5aea4ad08c4\",\"session_id\":1789392677298,\"time\":1789392750569,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"b3823700-8a1a-4ad0-8812-91973a6e357f\",\"event_type\":\"$identify\",\"user_properties\":{\"app_version\":\"12.28.0-260914-0231\",\"$set\":{\"team\":\"41521407\"},\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"},\"groups\":{\"team\":\"41521407\"},\"event_id\":11,\"library\":\"amplitude-ts/2.7.2\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\",\"event_properties\":{}}]"}, {"name": "EXP_client-9tX_DEFAULT_USER_PROVIDER", "value": "{\"first_seen\":\"1789392750.563\"}"}, {"name": "openTabCount", "value": "1"}, {"name": "settings-fe50115f-931f-488c-8237-d30cfcb49b75", "value": "{\"lineWrapping\":true,\"previewType\":\"parsed\",\"agent-setting\":\"cloud\",\"automatic-agent-selection\":true,\"retainLinkHeaders\":false,\"sendNoCacheHeader\":true,\"sendPostmanTokenHeader\":true,\"usePostmanProxy\":false,\"useProxyEnvironmentVariables\":true,\"proxyURL\":\"\",\"xhrTimeout\":0,\"maxResponseSize\":52428800,\"variableDelimiter\":\"{{...}}\",\"languageDetection\":\"auto\",\"haveDonated\":false,\"grpcImportPaths\":{},\"schemaLocations\":{},\"custom-http-methods\":{},\"shouldUseSystemTheme\":true,\"appThemeConfiguration\":{\"DAY\":\"light\",\"NIGHT\":\"dark\"},\"postmanCodeMirrorTheme\":\"eclipse\",\"isOnboardedToSystemTheme\":true,\"network-connection-mode\":\"websocket\",\"responsePreviewDataSection\":\"body\",\"requestBodyEditorContainerType\":\"editor\",\"syncedHeaderPresets\":false,\"hideSnippets\":false,\"hidePrscriptSnippets\":false,\"interceptorRedirect\":true,\"trackUnsavedRequests\":true,\"googleAnalytics\":true,\"requesterSidebarWidth\":300,\"requesterBrowserWidth\":365,\"requesterTabRequestEditorPaneHeight\":200,\"requesterTabRequestEditorPaneWidth\":400,\"requesterTabResponsePaneHeight\":200,\"requesterTabResponsePaneWidth\":400,\"exampleTabRequestEditorPaneHeight\":200,\"exampleTabRequestEditorPaneWidth\":400,\"exampleTabResponseEditorPaneHeight\":200,\"exampleTabResponseEditorPaneWidth\":400,\"scriptSnippetCollapsed\":false,\"SSLCertVerify\":false,\"uiScale\":0,\"activeRequesterTab\":\"builder\",\"activeSidebarSection\":\"collection\",\"hideSidebarLabels\":false,\"isCookiesSessionMigrated\":false,\"collectionExportFormat\":\"v2.1\",\"uiZoom\":0,\"requesterTabLayout\":\"layout-1-column\",\"showAuthVariablesAlert\":true,\"showAuthAdvancedFields\":true,\"showOAuth2AdvancedConfigLCBanner\":true,\"isCACertEnabled\":false,\"CACertPath\":\"\",\"clientCertificates\":\"{}\",\"autoDownloadUpdateStatus\":1,\"isAutoDownloadUpdateStatusReset\":false,\"useSystemProxy\":true,\"accessProxyEnabled\":false,\"accessProxyHost\":\"\",\"accessProxyPort\":\"\",\"accessProxyInsecureHostname\":false,\"accessProxyManagementHost\":\"\",\"accessProxyManagementPort\":\"\",\"accessProxyManagementInsecure\":false,\"dataEditorColumns\":{\"headers\":[\"key\",\"value\",\"description\"],\"queryParams\":[\"key\",\"value\",\"description\"],\"pathVariables\":[\"key\",\"value\",\"description\"],\"formData\":[\"key\",\"value\",\"description\"],\"formUrlEncoded\":[\"key\",\"value\",\"description\"],\"grpcMetadata\":[\"key\",\"value\",\"description\"],\"session\":[\"key\",\"variableType\",\"value\",\"sessionValue\"]},\"dataEditorColumnsDefault\":{\"dataEditorColumns\":[\"key\",\"value\",\"description\"],\"sessionDataEditorColumns\":[\"key\",\"variableType\",\"value\",\"sessionValue\"]},\"variableAutocomplete\":true,\"showJoinedWorkspaceModal\":true,\"showUnmarkSecureModal\":true,\"showMarkSecureModal\":true,\"showSessionVariablesAlert\":true,\"showVariableDisableSyncInfo\":false,\"showVariableDisableSyncImpactInfo\":false,\"workingDir\":\"\",\"insecureFileRead\":false,\"consoleShowTimestamp\":false,\"consoleHideNetworkLogs\":false,\"consoleFilterEvents\":[\"info\",\"log\",\"warn\",\"error\"],\"autosaveEnabled\":false,\"showWhitespaces\":true,\"isCookieMigratedFromElectron\":true,\"disableCookies\":false,\"stopOnError\":true,\"hasViewedDisableConsoleLogsBanner\":false,\"editorFontFamily\":\"IBMPlexMono, 'Courier New', monospace\",\"responseFontSize\":12,\"editorIndentCount\":4,\"editorIndentType\":\"space\",\"editorAutoCloseBrackets\":true,\"editorAutoCloseQuotes\":true,\"editorRenderNonPrintable\":false,\"isDefaultEditorSet\":false,\"isPostmanEditorDefault\":true,\"isEditorSwitchShowAgain\":true,\"openLinksInDesktop\":null,\"newCreatedRequestType\":{\"value\":\"last-used\",\"route\":\"build.create-request\"},\"pinnedElements\":[],\"variablesEditorColumnVisibility\":{\"showSharedValueColumn\":false,\"showDescriptionColumn\":false},\"postmanTheme\":\"light\",\"ProxyListManager\":{\"globalProxy\":{\"disabled\":true,\"httpProxy\":true,\"httpsProxy\":true,\"port\":8080}},\"zoomFactor\":1,\"capture.proxy.initialBanner\":true,\"capture.proxy.certTrusted\":false,\"capture.proxy.proxyStatus\":\"disconnected\",\"capture.proxy.initialNudge\":true,\"alreadyShownCookiesHelper\":false,\"interceptor.keyMismatch\":false,\"interceptor.showAutoSyncCookiesBannerInterceptor\":true,\"enable-connection-mode-settings\":false,\"userAISettings\":{\"ai_user_features_allowed\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_agent_mode\":{\"value\":false,\"canEdit\":\"editable\"},\"ai_user_agent_mode_auto_run\":{\"value\":false,\"canEdit\":\"editable\"},\"ai_user_autocomplete\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_inline_selection_icon\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_viewed_onboarding_banner\":{\"canEdit\":\"editable\"},\"ai_user_autorun_banner_dismissed\":{\"canEdit\":\"editable\"},\"ai_user_web_search_enabled\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_external_suggestions\":{\"value\":true}},\"userAIOptIn\":{\"userId\":\"58172413\",\"teamId\":\"41521407\",\"consent\":false,\"type\":\"team-consent\",\"version\":\"v1.1.0\",\"providedBy\":{\"type\":\"ADMIN\",\"method\":\"NONE\"},\"consentPathway\":\"USER_CAN_APPROVE_FOR_TEAM\",\"lastUpdated\":\"2026-09-14T13:32:29.735Z\"}}"}, {"name": "userconfigs-fe50115f-931f-488c-8237-d30cfcb49b75", "value": "{\"workspace.visibilityAvailablePlans\":[\"sync-annual-enterprise\",\"sync-annual-enterprise-201805\",\"sync-monthly-business-202001\",\"sync-annual-business-202001\",\"sync-annual-business-202001-grandfathered\",\"sync-annual-enterprise-202001\"],\"user.plansToAllowUpgrade\":[\"sync-free-forever-trial\",\"sync-free-3-trial\",\"sync-free-202603\"],\"user.enableLaunchDarkly\":true}"}, {"name": "userfeatureflags-fe50115f-931f-488c-8237-d30cfcb49b75", "value": "{\"inviteByNonAdmin\":false,\"schemaChangelog\":true,\"schemaSyncing\":true,\"schemaValidation\":true,\"moveMocks\":true,\"schemaNavigation\":true,\"collectionRecommendation\":true}"}, {"name": "access_token", "value": "null"}, {"name": "EXP_unsent_$default_instance", "value": "[]"}]}]}
+{
+  "cookies": [
+    {
+      "name": "_pm.uid",
+      "value": "PM.MjAyNi0wOS0xNFQxMzoyOTozMy4xNjVa",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": 1823952574.416255,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dwndvc",
+      "value": "940b8a0de6d32e8a0ea9babc146f1ea01bb36cd921d8a887321dbf1cfd1d1d34",
+      "domain": "identity.getpostman.com",
+      "path": "/",
+      "expires": 1823088626.743919,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBTG",
+      "value": "74NjUsZC4Z/cN00N+3nTSQyePD7R870AjNejHaHyrzHWKNNyoZWtpt9V/3qA8ysIIWZWYvUq87ilxHuxDe01mD756wq7gN+l7WmJGq6apQJotRFbe9QrPyyFhzk4gJ1JXDPFv64uNWdNTjKXTnVlzlqvW7aMJO4I6ozfor34+fUn+UsQWMo=",
+      "domain": "www.postman.com",
+      "path": "/",
+      "expires": 1789997374.416036,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "postman.sid",
+      "value": "a5b3f9c314e61b17db6ea163a84d4c6d5b95dd73c5d25dd8faf6f36ebe6ca66ac97bc93ea00bc17bdd4634def7f6ad978f30e3bf094995d7a675f6d6ed6add0e092e21a90515c96286c0b1c574bc91dc91c693903bdb2b1af1e0d35d12d6d8390ebc99c49cd9f08f5f6a13f52f46e926a5b89ea369508d5ce2cfc13a6e773184370ff83f2fbf02795281dd776e334dd166b1b4b221aed235bc47fae7b7dd7a1c29d8f56a65e2438a5727de4190285f21d6ee4fadcc7df5551cf7b8937f9e41f8585c6d6390ec9f91dd1766bbf6724c2686e5a5e1d824ad1cdcc5c6384cbcb52e7f442cdf13885da6e224fb964ce47eebb7c18d0e6f0def334ba44f019eb5337c6ffcc702caf7d3b78108fd9ec6ac23cf440a6fa908d34aacf315250403e6b3794663ef3ab7a3cb0dc7f1f7e19b8934570e0ca4ac5ea9bb100b29ff3d91e8dfad4f4eb3278e0874e45453927026909079986c47b28a7f6f56df60af997dcefb4fc5dfddd1b18848f8b062a3ceed2f1b47800e9b6da71337f89d0bc603456d127d76d621e98d51bccef66e5a6875a022a02afcb501b20c611671fb0fc28519361c03fc41befb987f2f6088d0cea4030d1fa8adb44f8419fc28e677a79990b5e2aca149a41098596530e417ee30f67708afd227d0f136dbd9ae36fcfad510d1b8",
+      "domain": ".www.postman.com",
+      "path": "/",
+      "expires": 1791984687.278058,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dwnjrn",
+      "value": "e1c226c9572d008cc41986faf82e059025d2978473aacbc0ccbcfc23247e6587",
+      "domain": "identity.getpostman.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "postman.iam.sid",
+      "value": "iam-16f53bb6878e1b5db647787695d71fad4bb53a95e158827e0e6314feabd8a7af948e298032c2e557b133a1934351834f30b095a9b306a853c79d39429c68d548938130f82a8df988c1481bcad46b86a7262193b27e3d29094212f7c651cec397e81ad5e547a4ff5ee603be3058cda48276218b09c948dc6d02ce76933221cb9bf22a5f721980a2dac478fb72a3c077581d3fe08633e71c10a804af074696cc85fd92132238da5a546cac83e6ab7c4ce98c768edf260d8011566e05b61b47629c9d0caf30a85f926f8eff7d4559086dc1ea8fd7ead2a47e0c0d2597ecc090e97645694016342cdb318259e1f17509198efd5a1fbd88f790ac719da9af92d99fc52e7c70e8e8217aa47cd752645da2252e2f1df53a5e98ccb0e35d2a14ccca286daa5e9ae9b5d3c2027f2a61ce6e3dc20a791761e0d7e4882df9361c4b3d4d9c021b7c5fdbaba8e6019250101fe0bb7aa2ed06bfad6d9223e808ad50668d9c1eec4ddd52bdc00ddd850f341616914bbf48288167a69d70c52b4d8bcc4197db2d9ff9dfd4e178c6a9a38d3e8958eb3f90f0aaa48c8785e0e984c698951bf239ad61b420d4e6de26490730f2e1b6a7b5cb9d3d7e97d48d82a0308f810dd624a4e0d5f0662c806925abc08ed03ec013b29a7833564bdc8a45eb6511f76e7e38bc689c29aa95af3f931d97a300efc24cad586b1a5054dfff8155edf75b52e424919711e93c62edfea20eceed78408c68b2dc90919eb88fef8eed280523d35684256784fa0918aebd53f24303a656237af39c7c4206a118a0c987a364d1763dce0a9da5828918a89578525d8bc54ca4b67d9400ea9994ad20cd160f530a39b782e8c02425afaef4e385b115380e04172f009ce96346b3f9685cc07e4c9eee985172fc74a2d3ecfe58a16f27ea001ce1f0fd21ffd3cd3549ad323618241d66f5779c60864aa45e300e994c5e7eaade80b540d11e5e293a32c5cb77ed24808c3ba6791bab9533c666ed4a783e7b1f695ea3d606d24cc510e41a1903928d6b84d8bc55c9f763fdc6e88884ac00722af42e8b3833a59bde35bb0dc9ca5fac7da195be2bfa836a4de32141d6a58d30e358684940683c202a401b76036d3bd9f9cad2e60fd5ea2475426bc8b3158d20ffddcef26a690a51744d0b2322d450f470467a242722fd3847e28ba20e4401577de678e977fe09637cedbca625afb0bfe3aa00323c1a1e65d4d16d55cc64ed5db761858d142de838eae03ccd0f41fd21713a197eac03a3bed25772db60c621ae2fa7ceb806d44039299daafbb6efd45d3bcd41680f02f6aa6ba2bbd3ee6737da189f336a1177c7a666fe0bb19261d713dfca00a91cc3bcd7da2087b08eb16aa0d4b20b5016",
+      "domain": ".identity.getpostman.com",
+      "path": "/",
+      "expires": 1791984734.842486,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "analytics_session_id.last_access",
+      "value": "1789392708612",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1820928708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dashboard_beta",
+      "value": "yes",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": 1820928735.61641,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "5ac76dc4-cd9f-4936-8b8c-bf36ce466d07",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1820928708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "xiB.6SZNrvS_ndoHLzDvdM4jYztI1qiFZ80R9w7m1dQ-1789392626.015664-1.0.1.1-SgtMAWyuDQBDwyiU5bJKTCt992atGkzK8jKZOvoOisk",
+      "domain": ".identity.getpostman.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pm.uid",
+      "value": "PM.MjAyNi0wOS0xNFQxMzozMDoyNi4wMzBa",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1823952626.743824,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "getpostmanlogin",
+      "value": "yes",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1791984734.842612,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dashboard_beta",
+      "value": "yes",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1820928734.842663,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_SERVICE_PUB_ID",
+      "value": "a01d337803cf00000170d5da",
+      "domain": ".www.postman.com",
+      "path": "/",
+      "expires": 1791984687.278137,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "xRYtbW8ewXfROnh2.D_bQes4KPlpMza._BnJPEkgh94-1789392664.1874802-1.0.1.1-BDnVBV7ioyjkzuuE85t.2xERUsq9306Dg310aPOyE88",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBTGCORS",
+      "value": "74NjUsZC4Z/cN00N+3nTSQyePD7R870AjNejHaHyrzHWKNNyoZWtpt9V/3qA8ysIIWZWYvUq87ilxHuxDe01mD756wq7gN+l7WmJGq6apQJotRFbe9QrPyyFhzk4gJ1JXDPFv64uNWdNTjKXTnVlzlqvW7aMJO4I6ozfor34+fUn+UsQWMo=",
+      "domain": "www.postman.com",
+      "path": "/",
+      "expires": 1789997374.416195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "analytics_session_id",
+      "value": "1789392638899",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1820928708,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "postman.meta",
+      "value": "eyJhY2NvdW50IjoiZjZiYTFkMzQ1ZDlkYTUyZGY5Y2ZjMzI2ZmJhOTQxNWU3MTg5MDk1MWE1ZjNjMDA2YTkyM2Y1NzY1MWM2MzdkMGY3ODBhNTc3NzZmYzE2OTlhZWM4OWY2Y2RiNjM2NGFmMDQ5M2Y5MTYxMzUxNzMyMDkwZjAyNTMzMWVlYTYzZGYifQ%3D%3D",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1820928734.842761,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "getpostmanlogin",
+      "value": "yes",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": 1791984735.616366,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pm.store",
+      "value": "{\"userId\":\"PM.MjAyNi0wOS0xNFQxMzoyOTozMy4xNjVa\",\"traceId\":\"pmMTc4OTM5MjU3MzE2NQ==|PM.MjAyNi0wOS0xNFQxMzoyOTozMy4xNjVa\",\"session\":999,\"time\":1789392687196}",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": 1823952688.604708,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_MKTG_56d4a7f424",
+      "value": "JTdCJTdE",
+      "domain": ".postman.co",
+      "path": "/",
+      "expires": 1820928677,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pm.store",
+      "value": "{\"userId\":\"PM.MjAyNi0wOS0xNFQxMzozMDoyNi4wMzBa\",\"traceId\":\"pmMTc4OTM5MjYyNjAzMA==|PM.MjAyNi0wOS0xNFQxMzozMDoyNi4wMzBa\",\"session\":4547,\"time\":1789392731755,\"polaris\":\"5ac76dc4-cd9f-4936-8b8c-bf36ce466d07\"}",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1823952731.757667,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dashboard_beta",
+      "value": "yes",
+      "domain": ".postman.co",
+      "path": "/",
+      "expires": 1820928735.211733,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_PUB_ID",
+      "value": "a01e48d03de58e000108e6e2",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": 1791984735.616449,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pm_dvc",
+      "value": "eyJkZXZpY2VJZCI6ImEwMjM2ZWZiLWQyMjUtNDdkNi05OTMyLWIzOGNjMTg1YjdhYyIsInR1cm5zdGlsZSI6eyJzdWNjZXNzQXR0ZW1wdHMiOjAsInRvdGFsQXR0ZW1wdHMiOjAsImZhaWxlZEF0dGVtcHRzIjowLCJleHBpcmVkQXR0ZW1wdHMiOjAsInRpbWVvdXRBdHRlbXB0cyI6MH19",
+      "domain": ".identity.getpostman.com",
+      "path": "/",
+      "expires": 1791984734,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_PUB_ID",
+      "value": "a01e48d03de58e000108e6e2",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1791984734.842711,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "RQyIOBFTtHE.wEe48MhiBnF64m6h.3ky6SjQREpmEGE-1789612400-1.2.1.1-eo.RfySJxOJAsg7GCsHEoBx6ijZFjozrRj3aWHKoSV_E9VkwPBxvxVIUtcNfgL9tYD21pr5I0dVc2WzP1JbBu45gVaZweRxTi19eFakh9stJ_rPH4tFQ6goJwagmDh8DWZF8Cct3CGzU7kdCY5VFV2F.dtIC5D4_Fl48Cy6t7DdHWxDOBS3OCk2emfRI_dVAQnnuUdL8eQpHJI4ipaa39T_WoB4ir9FWuTucvDtsnDqs8.6OJGy4UqVocelX3hIEtnvG8oGlu0YJk9Q7lRCLD3EatDxkV1Sky8p1lO1NC3ZXYH4GGXsGY14zS7_m2zY25Wc7ZZNCOcEnMa8Ay3bxaj2pQlQvTU84lAsAQDM96WA3q6OgfgTOeJpLr7vGzhIZ8OkAbcINuf0g8A03vwMRui7_NCQd1frIIwTQW6X0kaeueskBrXYML4LpHaJQRbIZNBsxkOTPFCG701eLg5QXt.qVIUbqvBei03e_MxN65mTC_a3fd.gjblDwRkw3ZWCtgTU3tbn.DRrCcL0FpQLs8Q",
+      "domain": ".identity.getpostman.com",
+      "path": "/",
+      "expires": 1821148401.056646,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_chl_rc_ni",
+      "value": "4",
+      "domain": "identity.getpostman.com",
+      "path": "/",
+      "expires": 1789616001,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "vwu0tpoVusXZ4lvCV0IhgcBZx9ofmGifoYG2SZXq5Tw-1789612416.2384522-1.0.1.1-L6DHMyyX68BPQKkqpzasy7pRPvgCJdKOllTD7GkaogDlmXUiAja7lHZq3Qn658IPbXte9ihH_NwsuD2.tTwl4JFuxzRPJzPOWiRvUeTRgyZrWrkRFvIE9Q0wRZkuPtgv",
+      "domain": ".identity.getpostman.com",
+      "path": "/",
+      "expires": 1789614216.439273,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "za6Ij6j03O.MsMJGzh_zrIYQAClbXoM.ILJalGo6ENw-1789612504.7673016-1.0.1.1-OOag_MkAE3PARMrfFw1BtbKLJuX8F8TWKbYBrdrR4H5.O0Uf1NVLh7iISIZ9beRNHVqwe6ZlKdBddhn1xQC0tmMIcR0aSL0GBj7HuD8M9T9.e5QrZ.yvcRHvfba8X6I8",
+      "domain": ".postman.co",
+      "path": "/",
+      "expires": 1789614306.261585,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "8snJL.a_2mCgJrLRWWa8t7YiiSut4kt.p_P6elC_1Tg-1789612507.5793123-1.0.1.1-3Whx_Zbzg3ZceKNpCQ74sCOqMd5RKxE0aRuylEWAE8Q",
+      "domain": ".postman.co",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": ".Egac7Qapo5QrLH1k2wHSZhsoDrkND_r1vrLQc.GQx4-1789612508.622296-1.0.1.1-_c7NlF9UwLHfZw.0credy19fhZZO5h6h5TWEHeNSi3c_Ede7fm54z3Tz7snnAj8zy55TVQhG3Zdc.M60HCz8XxWvKLsk1GfkC864usdLM_1XsBNQPzOUu84HXK_YaSJM",
+      "domain": ".postman.com",
+      "path": "/",
+      "expires": 1789614309.322748,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "legacy_sails.sid",
+      "value": "s%3Ajq37_wl-IlO5dpQpNmcGNRtjASTOD3Sb.0Clhq59WGtargxk%2FoSSYA3XdyB%2F7ccKoIGTK8yuJGYk",
+      "domain": "identity.getpostman.com",
+      "path": "/",
+      "expires": 1789698918.874346,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "postman.sid",
+      "value": "e0075da7b7a0f42b3e7a373ba83b5d5cf2fc9cbf90892b8de0b82dd8148c84cfe810ebfe7382381b914902076f1eb2dc98d935a9f10327ebe1fc3f079a7ce8ca776bdaf923c508eb265384a8ff10c68b77c2ee7c7f731ed995206aeace80e2041169a2978071ef119c8336d2498bfc5d0e838bddebc4118e1e8a8a6141e02a57e6bb170a1d114f0dff24ad0f83b38423bc2f4d9a58ba526be00e325f2634906d4642a7b00c9192d8db84d259f607d716614d63c34bbaf3cc3b86c21f9a0447d26a557bcb2468f83922045b23247dfbc14ca36a7b44f525913f7ea3f3ced34961e5a3c413af89daf4ff6043ced4834cebbc712472fb6d41c5d44920a8980c2876e88d3b3e4804365818db465cea4cc39d302e67e81916da6f60b1e710fbcfebb74e34572fc5dabfda989cc3762f82ca90dd7a22b303c35765918f9d6a3fdebd015c4c11b02f44412e2ced713b0005de0cd1dd0cd61e939b37f419ff51e1494c7453a05cb9a17f6f9d66b930c641adf1efbb58b0e64339e3265117f34743e61e8a51de65dddfcaf04e2a916f1f027c8168a86299f3946c5bb6506def4944f1028ff8be0cc11d2115d6334935f2c1a19b8e493a296218bd41d0dd9eaea4824e181d82b468e1af762ec267f4dbea2b348f2c3a20bf7d8aa7c908fade943f166376",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1792204518.874444,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sails.sid",
+      "value": "s%3Ajq37_wl-IlO5dpQpNmcGNRtjASTOD3Sb.0Clhq59WGtargxk%2FoSSYA3XdyB%2F7ccKoIGTK8yuJGYk",
+      "domain": "identity.getpostman.com",
+      "path": "/",
+      "expires": 1789698918.874502,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "V8sQ_98y9Kb_hiUllswc_UHGb_.uRlm8WYf1VxPn7iU-1789612518.7902617-1.0.1.1-YogFEpNO.mF24uZuuPmovs6E7Ycjv7wNTVkC055u293Bbe28oY1KTGIrCWVw.Ev20hoeiwG7u8kHS3P2N4SQetoo5yHw6SwzXB4Pkg7mUUvB4mJmAQboRg_FTs4ZRL8L",
+      "domain": ".getpostman.com",
+      "path": "/",
+      "expires": 1789614319.003883,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cfseq-0Fs6Rq3Wt",
+      "value": "JbMtreGCcTsBxHGrFPQmk8B87KN9PuYT7G7rDYkOgKgI6P6907FC98Gi9eB7Ectu8_szkmSNE0Iu8kiGxMKp8Ricfnpe92XGZCssjzW-KH5Evl6U62QfEMao8fKsqdzskF_d1AxxoAzxNCVbz2BQlTqT-nD-oGlqjexTYQqaetWMC89UrY0oge21AzQ",
+      "domain": ".identity.getpostman.com",
+      "path": "/",
+      "expires": 1789616119.651373,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "postman.sid",
+      "value": "ec7d1437c7ff96d14125306e3c775138f8a17bde4bcd65f71fb033e40dd3019fe7e0df693c723cf0b519659b05d6fddfdaaeb2e0a696662fdcd232b77e4ab392271e7c2f1109fd998d137622d7e63114a5568fda30ecb1c7b200729091eeee1ca27f8779e399d30f9cec020af7fae8d604835963ac79ab957fb9ab4d68910199d055d4f202769b46f852babf94bd8a23da4c561a586ef7c8c2649cf37faaffb91c01df2f3fdf3e0fe69cb1276dfbd9ec597fcc000148870b4b5fec8a99afd82b30422dad460fb1556f8bda4123d4df5df824b7d2af2e3a95ac87fd410f1e4b32ee4593eaf1ab6fa53c34679a76d502942979ef0eb5f878bc2f1575838a56a582df7c9da8bae85ec07bbdb4da707248419cebef21d41da8dfe85aa618e828df294b20e40792afcc8c0a567bf2ecbaebb018c9f5afdcce29eca20a85f34972731dfe8e00d3dbde1418c0dd8a1de7bba29f94b6ee4f184ed857f3b32c1531ccd796b690e22d2607cf548ff4d38c8bb95ee77ad9f7c46d6ab057daaeb802f9e6bc634062d09bc17835f85309bea8dc9789a297a334ae46a2acdafbd9ef588183b553a5fa5af11dcc2929b6d45e432b08df7783ea8ce7a070672338c7f06950a846c3234e853ada93ac8cf7d3e3696f552f8c103f40af45715e42c80389cc0f00d0",
+      "domain": ".postman.co",
+      "path": "/",
+      "expires": 1792204528.16216,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "75f02eaeb6b878ac",
+      "domain": ".nr-data.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMP_56d4a7f424",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4NDhhYmY2Ny01MTBiLTRjMWEtYmIwZC1hNWFlYTRhZDA4YzQlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjJlNWE1YWE1MS01NzFjLTQ1MTktODk0Mi0xYjIxNmI0ZDY0M2MlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzg5NjEyNTA4ODE5JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc4OTYxMjUyODY0NyUyQyUyMmxhc3RFdmVudElkJTIyJTNBNDglMkMlMjJwYWdlQ291bnRlciUyMiUzQTQlN0Q=",
+      "domain": ".postman.co",
+      "path": "/",
+      "expires": 1821148528,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://pmgi8mzqw98v-1548335.postman.co",
+      "localStorage": [
+        {
+          "name": "hasBeenExposedToDeepLinking",
+          "value": "true"
+        },
+        {
+          "name": "amp-exp-$default_instance-dGqAAS-flags",
+          "value": "{\"grw-2118-team-creator-personalization\":{\"key\":\"grw-2118-team-creator-personalization\",\"metadata\":{\"deployed\":true,\"evaluationMode\":\"remote\",\"experimentKey\":\"exp-1\",\"flagType\":\"experiment\",\"flagVersion\":34},\"segments\":[{\"metadata\":{\"segmentName\":\"default\"},\"variant\":\"off\"}],\"variants\":{\"control\":{\"key\":\"control\",\"payload\":{\"isEnabled\":false,\"variationName\":\"control\"},\"value\":\"control\"},\"off\":{\"key\":\"off\",\"metadata\":{\"default\":true}},\"variant\":{\"key\":\"variant\",\"payload\":{\"isEnabled\":true,\"variationName\":\"variant\"},\"value\":\"variant\"}}}}"
+        },
+        {
+          "name": "v12-resizable-panels-reset",
+          "value": "true"
+        },
+        {
+          "name": "AMP_unsent_56d4a7f424",
+          "value": "[]"
+        },
+        {
+          "name": "EXP_client-9tX_DEFAULT_USER_PROVIDER",
+          "value": "{\"first_seen\":\"1789392750.563\"}"
+        },
+        {
+          "name": "openTabCount",
+          "value": "2"
+        },
+        {
+          "name": "settings-fe50115f-931f-488c-8237-d30cfcb49b75",
+          "value": "{\"lineWrapping\":true,\"previewType\":\"parsed\",\"agent-setting\":\"cloud\",\"automatic-agent-selection\":true,\"retainLinkHeaders\":false,\"sendNoCacheHeader\":true,\"sendPostmanTokenHeader\":true,\"usePostmanProxy\":false,\"useProxyEnvironmentVariables\":true,\"proxyURL\":\"\",\"xhrTimeout\":0,\"maxResponseSize\":52428800,\"variableDelimiter\":\"{{...}}\",\"languageDetection\":\"auto\",\"haveDonated\":false,\"grpcImportPaths\":{},\"schemaLocations\":{},\"custom-http-methods\":{},\"shouldUseSystemTheme\":true,\"appThemeConfiguration\":{\"DAY\":\"light\",\"NIGHT\":\"dark\"},\"postmanCodeMirrorTheme\":\"eclipse\",\"isOnboardedToSystemTheme\":true,\"network-connection-mode\":\"websocket\",\"responsePreviewDataSection\":\"body\",\"requestBodyEditorContainerType\":\"editor\",\"syncedHeaderPresets\":false,\"hideSnippets\":false,\"hidePrscriptSnippets\":false,\"interceptorRedirect\":true,\"trackUnsavedRequests\":true,\"googleAnalytics\":true,\"requesterSidebarWidth\":300,\"requesterBrowserWidth\":365,\"requesterTabRequestEditorPaneHeight\":200,\"requesterTabRequestEditorPaneWidth\":400,\"requesterTabResponsePaneHeight\":200,\"requesterTabResponsePaneWidth\":400,\"exampleTabRequestEditorPaneHeight\":200,\"exampleTabRequestEditorPaneWidth\":400,\"exampleTabResponseEditorPaneHeight\":200,\"exampleTabResponseEditorPaneWidth\":400,\"scriptSnippetCollapsed\":false,\"SSLCertVerify\":false,\"uiScale\":0,\"activeRequesterTab\":\"builder\",\"activeSidebarSection\":\"collection\",\"hideSidebarLabels\":false,\"isCookiesSessionMigrated\":false,\"collectionExportFormat\":\"v2.1\",\"uiZoom\":0,\"requesterTabLayout\":\"layout-1-column\",\"showAuthVariablesAlert\":true,\"showAuthAdvancedFields\":true,\"showOAuth2AdvancedConfigLCBanner\":true,\"isCACertEnabled\":false,\"CACertPath\":\"\",\"clientCertificates\":\"{}\",\"autoDownloadUpdateStatus\":1,\"isAutoDownloadUpdateStatusReset\":false,\"useSystemProxy\":true,\"accessProxyEnabled\":false,\"accessProxyHost\":\"\",\"accessProxyPort\":\"\",\"accessProxyInsecureHostname\":false,\"accessProxyManagementHost\":\"\",\"accessProxyManagementPort\":\"\",\"accessProxyManagementInsecure\":false,\"dataEditorColumns\":{\"headers\":[\"key\",\"value\",\"description\"],\"queryParams\":[\"key\",\"value\",\"description\"],\"pathVariables\":[\"key\",\"value\",\"description\"],\"formData\":[\"key\",\"value\",\"description\"],\"formUrlEncoded\":[\"key\",\"value\",\"description\"],\"grpcMetadata\":[\"key\",\"value\",\"description\"],\"session\":[\"key\",\"variableType\",\"value\",\"sessionValue\"]},\"dataEditorColumnsDefault\":{\"dataEditorColumns\":[\"key\",\"value\",\"description\"],\"sessionDataEditorColumns\":[\"key\",\"variableType\",\"value\",\"sessionValue\"]},\"variableAutocomplete\":true,\"showJoinedWorkspaceModal\":true,\"showUnmarkSecureModal\":true,\"showMarkSecureModal\":true,\"showSessionVariablesAlert\":true,\"showVariableDisableSyncInfo\":false,\"showVariableDisableSyncImpactInfo\":false,\"workingDir\":\"\",\"insecureFileRead\":false,\"consoleShowTimestamp\":false,\"consoleHideNetworkLogs\":false,\"consoleFilterEvents\":[\"info\",\"log\",\"warn\",\"error\"],\"autosaveEnabled\":false,\"showWhitespaces\":true,\"isCookieMigratedFromElectron\":true,\"disableCookies\":false,\"stopOnError\":true,\"hasViewedDisableConsoleLogsBanner\":false,\"editorFontFamily\":\"IBMPlexMono, 'Courier New', monospace\",\"responseFontSize\":12,\"editorIndentCount\":4,\"editorIndentType\":\"space\",\"editorAutoCloseBrackets\":true,\"editorAutoCloseQuotes\":true,\"editorRenderNonPrintable\":false,\"isDefaultEditorSet\":false,\"isPostmanEditorDefault\":true,\"isEditorSwitchShowAgain\":true,\"openLinksInDesktop\":true,\"newCreatedRequestType\":{\"value\":\"last-used\",\"route\":\"build.create-request\"},\"pinnedElements\":[],\"variablesEditorColumnVisibility\":{\"showSharedValueColumn\":false,\"showDescriptionColumn\":false},\"postmanTheme\":\"light\",\"ProxyListManager\":{\"globalProxy\":{\"disabled\":true,\"httpProxy\":true,\"httpsProxy\":true,\"port\":8080}},\"zoomFactor\":1,\"capture.proxy.initialBanner\":true,\"capture.proxy.certTrusted\":false,\"capture.proxy.proxyStatus\":\"disconnected\",\"capture.proxy.initialNudge\":true,\"alreadyShownCookiesHelper\":false,\"interceptor.keyMismatch\":false,\"interceptor.showAutoSyncCookiesBannerInterceptor\":true,\"enable-connection-mode-settings\":false,\"userAISettings\":{\"ai_user_features_allowed\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_agent_mode\":{\"value\":false,\"canEdit\":\"editable\"},\"ai_user_agent_mode_auto_run\":{\"value\":false,\"canEdit\":\"editable\"},\"ai_user_autocomplete\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_inline_selection_icon\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_viewed_onboarding_banner\":{\"canEdit\":\"editable\"},\"ai_user_autorun_banner_dismissed\":{\"canEdit\":\"editable\"},\"ai_user_web_search_enabled\":{\"value\":true,\"canEdit\":\"editable\"},\"ai_user_external_suggestions\":{\"value\":true}},\"userAIOptIn\":{\"userId\":\"58172413\",\"teamId\":\"41521407\",\"consent\":false,\"type\":\"team-consent\",\"version\":\"v1.1.0\",\"providedBy\":{\"type\":\"ADMIN\",\"method\":\"NONE\"},\"consentPathway\":\"USER_CAN_APPROVE_FOR_TEAM\",\"lastUpdated\":\"2026-09-17T02:35:28.829Z\"},\"integrations.notifications.panelFooterBanner\":false}"
+        },
+        {
+          "name": "amp-exp-$default_instance-dGqAAS",
+          "value": "{\"grw-2118-team-creator-personalization\":{\"key\":\"variant\",\"value\":\"variant\",\"payload\":{\"isEnabled\":true,\"variationName\":\"variant\"},\"expKey\":\"exp-1\",\"metadata\":{\"experimentKey\":\"exp-1\"}}}"
+        },
+        {
+          "name": "userconfigs-fe50115f-931f-488c-8237-d30cfcb49b75",
+          "value": "{\"workspace.visibilityAvailablePlans\":[\"sync-annual-enterprise\",\"sync-annual-enterprise-201805\",\"sync-monthly-business-202001\",\"sync-annual-business-202001\",\"sync-annual-business-202001-grandfathered\",\"sync-annual-enterprise-202001\"],\"user.plansToAllowUpgrade\":[\"sync-free-forever-trial\",\"sync-free-3-trial\",\"sync-free-202603\"],\"user.enableLaunchDarkly\":true}"
+        },
+        {
+          "name": "PMOnboardingStatus",
+          "value": "{\"onboarded\":false}"
+        },
+        {
+          "name": "access_token",
+          "value": "null"
+        },
+        {
+          "name": "onboardingSettings",
+          "value": "{\"intent\":\"Exploring existing APIs\",\"hasPromptedForIntent\":false,\"role\":\"\",\"domain\":\"\",\"onboardingOrigin\":\"pre-product-onboarding-v12\"}"
+        },
+        {
+          "name": "userfeatureflags-fe50115f-931f-488c-8237-d30cfcb49b75",
+          "value": "{\"inviteByNonAdmin\":false,\"schemaChangelog\":true,\"schemaSyncing\":true,\"schemaValidation\":true,\"moveMocks\":true,\"schemaNavigation\":true,\"collectionRecommendation\":true}"
+        },
+        {
+          "name": "EXP_unsent_$default_instance",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
